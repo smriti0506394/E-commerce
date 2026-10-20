@@ -1,0 +1,836 @@
+,Order_ID,Customer_ID,Customer_Name,Age,Region,City,Order_Date,Product_Category,Product_Name,Quantity,Unit_Price,Discount,Revenue,Payment_Method,Delivery_Status,Customer_Rating,Marketing_Channel
+0,ORD1000,Unknown,Priya Patel ,25.0,North,Delhi,2025-03-13,Electronics,Laptop,5,2793,15.0,0,UPI,Delivered,5.0,Unknown
+1,ORD1001,C151,Riya Shah,31.0,East,Lucknow,04/23/25,Electronics,Headphones,4,2069,10.0,2500,UPI,Delivered,3.0,Instagram
+2,ORD1002,C207,Rahul Sharma,25.0,West, Mumbai,"Nov 06,2025",Electronics,Smartphone,2,4845,10.0,5000,UPI,Cancelled,3.0,Unknown
+5,ORD1005,C055,Vikram Das,25.0,North,Jaipur,"Apr 13,2026",Beauty,Perfume,5,2671,15.0,999,UPI,Cancelled,5.0,Google Ads
+6,ORD1006,C024,Rahul Sharma,31.0,North,Bhopal,09/18/25,Home,Mixer,3,2486,10.0,12000,UPI,Returned,4.0,Unknown
+7,ORD1007,C197,Karan Mehta,60.0,East,Ahmedabad ,"Dec 16,2025",Sports,Cricket Bat,3,5670,5.0,5000,UPI,Delivered,5.0,Facebook
+8,ORD1008,C196,Amit Singh,25.0,North,Lucknow,"Mar 20,2025",Groceries,Rice,5,5203,15.0,5000,UPI,Delivered,3.0,Google Ads
+9,ORD1009,C209,Priya Patel ,31.0,North,Bhopal,02/13/25,Fashion,T-Shirt,4,7565,5.0,12000,UPI,Delivered,5.0,Unknown
+10,ORD1010,C113,Vikram Das,45.0,North, Mumbai,"Jul 24,2025",Home,Chair,3,6325,20.0,2500,UPI,Cancelled,5.0,Facebook
+12,ORD1012,C169,Sneha Joshi,25.0,East,Bhopal,2025-02-18,Sports,Football,10,5960,15.0,30000,UPI,Delivered,1.0,Email
+13,ORD1013,C036,Sneha Joshi,60.0,West,Pune,10/02/25,Beauty,Face Wash,4,7505,15.0,30000,UPI,Returned,5.0,Instagram
+14,ORD1014,C043,Sneha Joshi,25.0,North,Bhopal,20-04-2026,Electronics,Headphones,3,1955,5.0,0,UPI,Returned,1.0,Email
+15,ORD1015,C076,Neha Gupta,25.0,North,Lucknow,21-03-2025,Fashion,Shoes,5,1694,0.0,0,UPI,Cancelled,4.0,Unknown
+16,ORD1016,C018,Priya Patel,45.0,East, Mumbai,12-03-2026,Groceries,Rice,1,332,5.0,12000,UPI,Cancelled,5.0,Instagram
+17,ORD1017,C062,Riya Shah,31.0,South,Bhopal,"Apr 15,2025",Electronics,Smartphone,3,5915,20.0,2500,UPI,Delivered,4.0,Unknown
+18,ORD1018,C226,Priya Patel ,25.0,South,Ahmedabad ,"Mar 09,2025",Electronics,Laptop,3,4981,20.0,5000,Wallet,Delivered,5.0,Unknown
+19,ORD1019,C068,Priya Patel,25.0,North,Jaipur,26-04-2026,Electronics,Headphones,3,5242,5.0,2500,Wallet,Delivered,3.0,Google Ads
+20,ORD1020,C024,Sneha Joshi,21.0,North,Lucknow,2025-05-09,Fashion,Jeans,5,6485,0.0,30000,UPI,Delivered,2.0,Email
+21,ORD1021,C140,Rahul Sharma,25.0,North,Bhopal,08-02-2025,Groceries,Cooking Oil,3,7062,5.0,999,UPI,Delivered,3.0,Instagram
+22,ORD1022,C250,Amit Singh,31.0,North,Bhopal,02/04/26,Beauty,Face Wash,4,4680,10.0,0,UPI,Delivered,4.0,Facebook
+23,ORD1023,C057,Neha Gupta,25.0,South,Pune,03/16/26,Fashion,T-Shirt,2,3383,0.0,999,UPI,Delivered,4.0,Google Ads
+24,ORD1024,C241,Rahul Sharma,60.0,North,Jaipur,"Dec 14,2025",Fashion,T-Shirt,5,5089,10.0,0,UPI,Cancelled,4.0,Google Ads
+25,ORD1025,C066,Rahul Sharma,25.0,North,Pune,06-04-2026,Beauty,Perfume,3,6860,10.0,2500,Cash,Delivered,3.0,Google Ads
+26,ORD1026,C084,Sneha Joshi,60.0,West,Ahmedabad ,12/08/25,Beauty,Face Wash,5,6914,20.0,999,Cash,Returned,3.0,Facebook
+27,ORD1027,C111,Karan Mehta ,25.0,West,Pune,27-05-2025,Fashion,Shoes,3,7975,20.0,12000,Cash,Delivered,3.0,Instagram
+28,ORD1028,C058,Neha Gupta,21.0,North,Pune,"Dec 11,2025",Fashion,Jeans,3,3451,15.0,5000,Wallet,Delivered,4.0,Email
+29,ORD1029,C168,Rahul Sharma,25.0,North,Ahmedabad ,05-05-2025,Fashion,Jeans,3,581,10.0,30000,Wallet,Returned,1.0,Unknown
+30,ORD1030,C244,Vikram Das,25.0,East,Bhopal,"Dec 08,2025",Fashion,T-Shirt,10,7549,0.0,999,Cash,Returned,3.0,Facebook
+31,ORD1031,C183,Riya Shah,60.0,South,Lucknow,2025-08-14,Fashion,Jeans,10,3253,20.0,12000,UPI,Delivered,2.0,Facebook
+32,ORD1032,C139,Vikram Das,21.0,North,Bhopal,"Jul 28,2025",Home,Chair,4,5720,10.0,5000,Wallet,Delivered,5.0,Email
+33,ORD1033,C138,Neha Gupta,45.0,South,Bhopal,03/13/26,Sports,Football,3,1260,10.0,5000,UPI,Returned,3.0,Email
+34,ORD1034,C152,Rahul Sharma,25.0,North,Bhopal,04/10/26,Electronics,Smartphone,3,4428,0.0,999,UPI,Delivered,4.0,Google Ads
+35,ORD1035,C065,Priya Patel,21.0,West,Delhi,05/23/25,Fashion,Shoes,3,1539,10.0,2500,UPI,Delivered,3.0,Instagram
+36,ORD1036,C122,Priya Patel ,45.0,West,Jaipur,03-05-2025,Electronics,Laptop,4,1255,10.0,30000,Card,Delivered,5.0,Unknown
+37,ORD1037,C148,Sneha Joshi,45.0,North,Pune,"Apr 21,2026",Electronics,Laptop,5,908,0.0,0,Card,Cancelled,1.0,Unknown
+39,ORD1039,C083,Neha Gupta,60.0,West,Pune,"Aug 12,2025",Groceries,Cooking Oil,3,1185,0.0,30000,Cash,Cancelled,5.0,Email
+40,ORD1040,C091,Riya Shah,60.0,South,Delhi,07-09-2025,Beauty,Face Wash,10,2892,10.0,12000,UPI,Delivered,2.0,Email
+42,ORD1042,C070,Riya Shah,45.0,North,Pune,06/30/25,Groceries,Cooking Oil,3,417,10.0,2500,UPI,Cancelled,3.0,Facebook
+44,ORD1044,C147,Riya Shah,25.0,West,Lucknow,2025-02-22,Electronics,Headphones,5,483,0.0,999,UPI,Delivered,4.0,Instagram
+45,ORD1045,C208,Riya Shah ,45.0,North,Bhopal,19-03-2025,Electronics,Smartphone,10,2587,0.0,12000,Wallet,Cancelled,2.0,Unknown
+46,ORD1046,C157,Priya Patel,45.0,South, Mumbai,2025-06-06,Home,Mixer,10,1678,10.0,999,UPI,Delivered,5.0,Instagram
+48,ORD1048,C233,Riya Shah,25.0,North,Ahmedabad ,28-11-2025,Fashion,Shoes,2,7605,15.0,30000,Card,Cancelled,3.0,Unknown
+49,ORD1049,C242,Riya Shah,25.0,West,Bhopal,12/25/25,Fashion,Shoes,2,3509,20.0,0,Wallet,Delivered,4.0,Google Ads
+50,ORD1049,C148,Rahul Sharma,25.0,West,Bhopal,"Jan 27,2026",Fashion,T-Shirt,2,1345,0.0,2500,UPI,Cancelled,4.0,Email
+52,ORD1052,C222,Rahul Sharma,25.0,West,Bhopal,05/12/26,Electronics,Smartphone,5,1500,5.0,0,UPI,Cancelled,3.0,Unknown
+55,ORD1055,C099,Neha Gupta,25.0,North, Mumbai,10-10-2025,Home,Mixer,10,2350,0.0,2500,Cash,Delivered,5.0,Google Ads
+56,ORD1056,C115,Vikram Das,25.0,West,Bhopal,20-03-2026,Electronics,Smartphone,5,3539,0.0,5000,Card,Delivered,3.0,Facebook
+57,ORD1057,C181,Sneha Joshi,31.0,West,Delhi,01/17/26,Home,Chair,3,1333,10.0,999,Wallet,Cancelled,3.0,Instagram
+58,ORD1058,C105,Amit Singh,25.0,South,Lucknow,05-01-2026,Sports,Football,3,1350,0.0,12000,Cash,Delivered,3.0,Unknown
+59,ORD1059,C061,Riya Shah,25.0,East, Mumbai,2025-11-13,Home,Mixer,10,3687,0.0,30000,UPI,Returned,2.0,Google Ads
+60,ORD1060,C111,Amit Singh,25.0,East,Ahmedabad ,"Jul 03,2025",Electronics,Laptop,3,7314,20.0,999,UPI,Delivered,5.0,Email
+62,ORD1062,C051,Sneha Joshi,25.0,North,Bhopal,"Mar 09,2026",Beauty,Perfume,3,3600,0.0,12000,Card,Cancelled,3.0,Google Ads
+64,ORD1064,C188,Amit Singh,60.0,South,Bhopal,"Jan 18,2025",Electronics,Headphones,1,572,0.0,999,UPI,Delivered,5.0,Google Ads
+65,ORD1065,C192,Karan Mehta,25.0,North,Ahmedabad ,"May 11,2026",Groceries,Cooking Oil,3,5991,0.0,30000,UPI,Returned,5.0,Google Ads
+67,ORD1067,C167,Sneha Joshi,31.0,North,Delhi,"Apr 11,2026",Groceries,Cooking Oil,4,1222,0.0,2500,Cash,Delivered,1.0,Facebook
+68,ORD1068,C151,Amit Singh,25.0,West,Bhopal,12/10/25,Groceries,Rice,3,3331,10.0,2500,UPI,Delivered,2.0,Email
+69,ORD1069,C016,Sneha Joshi,45.0,North,Bhopal,"Oct 06,2025",Sports,Football,3,6020,10.0,0,UPI,Cancelled,1.0,Instagram
+70,ORD1070,C151,Neha Gupta,25.0,North,Delhi,05-02-2025,Beauty,Face Wash,3,6344,15.0,2500,UPI,Delivered,5.0,Google Ads
+71,ORD1071,C151,Karan Mehta,31.0,South,Delhi,03-07-2025,Electronics,Laptop,1,3874,0.0,999,Cash,Cancelled,1.0,Instagram
+73,ORD1073,Unknown,Karan Mehta,31.0,North,Ahmedabad ,2026-04-06,Home,Chair,10,2363,5.0,2500,Wallet,Cancelled,5.0,Google Ads
+74,ORD1074,C219,Neha Gupta,25.0,North,Bhopal,2025-02-20,Home,Mixer,10,2747,10.0,2500,Cash,Returned,4.0,Instagram
+75,ORD1075,C176,Vikram Das,25.0,North, Mumbai,04-05-2026,Beauty,Perfume,3,6951,10.0,5000,UPI,Delivered,2.0,Unknown
+76,ORD1076,C106,Karan Mehta,25.0,North,Jaipur,2025-12-10,Electronics,Headphones,3,2316,10.0,12000,Card,Delivered,1.0,Unknown
+77,ORD1077,C090,Karan Mehta,60.0,North,Bhopal,2026-03-10,Groceries,Rice,3,2875,15.0,30000,Wallet,Cancelled,5.0,Unknown
+78,ORD1078,C236,Karan Mehta,21.0,North,Ahmedabad ,"May 20,2025",Electronics,Headphones,5,3717,10.0,12000,Cash,Delivered,2.0,Instagram
+79,ORD1079,C088,Amit Singh,60.0,South, Mumbai,08/03/25,Electronics,Headphones,3,2028,10.0,0,UPI,Delivered,5.0,Instagram
+80,ORD1080,C107,Riya Shah,25.0,North,Lucknow,11/07/25,Electronics,Smartphone,10,1352,0.0,5000,UPI,Delivered,3.0,Unknown
+81,ORD1081,C002,Neha Gupta ,45.0,North,Jaipur,2025-11-03,Sports,Cricket Bat,1,2094,10.0,2500,Card,Delivered,1.0,Email
+82,ORD1082,C019,Sneha Joshi,21.0,East,Delhi,"Sep 14,2025",Home,Chair,3,4875,15.0,5000,UPI,Delivered,5.0,Email
+83,ORD1083,C044,Vikram Das,25.0,North,Bhopal,"Jan 11,2025",Home,Mixer,5,7144,10.0,30000,UPI,Delivered,4.0,Unknown
+84,ORD1084,C200,Amit Singh,25.0,North,Pune,"Apr 24,2025",Home,Chair,3,1706,10.0,30000,Card,Delivered,3.0,Facebook
+86,ORD1086,C204,Riya Shah,21.0,South, Mumbai,"Nov 20,2025",Electronics,Smartphone,2,2302,0.0,2500,Cash,Returned,1.0,Instagram
+87,ORD1087,C116,Neha Gupta,25.0,West,Ahmedabad ,2025-08-25,Beauty,Perfume,2,3609,10.0,0,Cash,Delivered,3.0,Instagram
+89,ORD1089,C186,Amit Singh,25.0,North,Lucknow,"May 26,2025",Electronics,Smartphone,2,6045,10.0,2500,Cash,Delivered,5.0,Instagram
+90,ORD1090,C166,Sneha Joshi ,25.0,North,Lucknow,2025-12-10,Fashion,Jeans,3,3770,10.0,2500,UPI,Delivered,3.0,Email
+91,ORD1091,C130,Rahul Sharma,25.0,North,Bhopal,2025-06-01,Fashion,T-Shirt,3,5490,5.0,999,UPI,Delivered,3.0,Unknown
+92,ORD1092,C249,Vikram Das,60.0,West,Pune,06-07-2025,Electronics,Headphones,10,839,10.0,12000,UPI,Delivered,4.0,Facebook
+94,ORD1094,C232,Amit Singh,25.0,North,Bhopal,05/20/25,Groceries,Rice,5,4015,10.0,2500,UPI,Returned,1.0,Email
+95,ORD1095,C008,Karan Mehta,25.0,North,Ahmedabad ,11-07-2025,Groceries,Cooking Oil,4,7181,5.0,0,Card,Returned,3.0,Facebook
+96,ORD1096,C214,Amit Singh,25.0,East, Mumbai,12-05-2025,Sports,Cricket Bat,1,6144,0.0,30000,Card,Delivered,3.0,Instagram
+98,ORD1098,C018,Rahul Sharma,25.0,North,Bhopal,"Sep 26,2025",Beauty,Face Wash,3,5818,5.0,2500,Card,Delivered,3.0,Instagram
+100,ORD1100,C081,Riya Shah,25.0,West,Bhopal,2026-03-30,Electronics,Smartphone,4,1341,15.0,2500,UPI,Delivered,3.0,Google Ads
+101,ORD1101,C112,Sneha Joshi,25.0,East,Lucknow,"Feb 14,2026",Electronics,Headphones,3,478,5.0,999,Cash,Returned,3.0,Unknown
+103,ORD1103,C158,Sneha Joshi,21.0,North,Bhopal,"Jan 22,2025",Home,Chair,10,2351,0.0,2500,Wallet,Delivered,1.0,Facebook
+104,ORD1104,C093,Sneha Joshi,21.0,North,Bhopal,"Feb 03,2026",Sports,Football,3,5052,15.0,2500,Card,Returned,1.0,Unknown
+105,ORD1105,C064,Priya Patel,31.0,West,Bhopal,"Nov 29,2025",Electronics,Headphones,3,5657,10.0,12000,UPI,Delivered,3.0,Email
+106,ORD1106,C219,Priya Patel,31.0,West, Mumbai,04-03-2025,Fashion,Jeans,5,6272,15.0,30000,Card,Delivered,3.0,Instagram
+107,ORD1107,C131,Neha Gupta,45.0,North,Pune,"Feb 11,2026",Groceries,Cooking Oil,5,7515,10.0,30000,Cash,Delivered,3.0,Unknown
+108,ORD1108,C102,Vikram Das ,25.0,East, Mumbai,"Feb 03,2025",Beauty,Perfume,3,6176,5.0,999,Card,Delivered,4.0,Email
+109,ORD1109,C111,Rahul Sharma,25.0,North,Jaipur,29-01-2026,Groceries,Cooking Oil,3,1803,10.0,999,UPI,Delivered,3.0,Facebook
+110,ORD1110,C033,Riya Shah,25.0,North,Ahmedabad ,"Nov 22,2025",Beauty,Perfume,2,6748,15.0,12000,Wallet,Delivered,2.0,Unknown
+112,ORD1112,C041,Vikram Das,25.0,West,Pune,2025-02-07,Sports,Football,3,2210,0.0,2500,Wallet,Delivered,3.0,Google Ads
+113,ORD1113,C120,Priya Patel,25.0,North,Ahmedabad ,13-06-2025,Beauty,Perfume,3,4743,5.0,0,UPI,Delivered,4.0,Unknown
+114,ORD1114,C128,Vikram Das,60.0,West,Delhi,08-04-2025,Home,Chair,3,2850,10.0,0,Cash,Cancelled,4.0,Facebook
+115,ORD1115,C153,Vikram Das,25.0,North, Mumbai,05/25/25,Fashion,Jeans,3,1910,0.0,5000,UPI,Delivered,3.0,Google Ads
+116,ORD1116,C093,Riya Shah,25.0,West,Bhopal,19-10-2025,Home,Mixer,1,5794,0.0,30000,Wallet,Delivered,5.0,Unknown
+117,ORD1117,C143,Karan Mehta ,45.0,West,Bhopal,"Feb 11,2026",Electronics,Laptop,2,4488,10.0,12000,UPI,Delivered,1.0,Facebook
+118,ORD1118,C084,Karan Mehta,25.0,South,Lucknow,07-11-2025,Beauty,Perfume,3,5889,10.0,12000,Wallet,Cancelled,4.0,Unknown
+120,ORD1120,C009,Priya Patel,21.0,West,Lucknow,17-03-2025,Sports,Football,3,1635,10.0,5000,UPI,Returned,3.0,Facebook
+121,ORD1121,C170,Vikram Das,25.0,South,Ahmedabad ,"Oct 15,2025",Home,Mixer,1,1198,15.0,5000,Wallet,Delivered,5.0,Google Ads
+122,ORD1122,C058,Riya Shah,45.0,West,Lucknow,"May 23,2025",Fashion,Jeans,10,7954,15.0,5000,Card,Cancelled,3.0,Google Ads
+123,ORD1123,C245,Amit Singh,21.0,South, Mumbai,"Feb 24,2026",Fashion,T-Shirt,3,7661,10.0,2500,Cash,Delivered,3.0,Email
+125,ORD1125,C105,Vikram Das,45.0,South,Lucknow,09-05-2026,Beauty,Perfume,2,1626,0.0,2500,UPI,Delivered,3.0,Unknown
+126,ORD1126,C240,Rahul Sharma ,25.0,North,Jaipur,28-03-2026,Fashion,Jeans,1,386,10.0,0,UPI,Delivered,5.0,Unknown
+127,ORD1127,C218,Vikram Das,45.0,North,Lucknow,01-04-2026,Electronics,Smartphone,5,5953,0.0,999,Cash,Delivered,3.0,Facebook
+130,ORD1130,C164,Riya Shah,45.0,North,Ahmedabad ,2025-12-20,Sports,Cricket Bat,3,3677,20.0,5000,UPI,Returned,3.0,Unknown
+131,ORD1131,C175,Priya Patel,25.0,West,Lucknow,26-01-2026,Beauty,Perfume,3,6931,15.0,0,Wallet,Delivered,1.0,Unknown
+132,ORD1132,C030,Neha Gupta,25.0,North,Bhopal,06/17/25,Groceries,Rice,3,4217,10.0,30000,UPI,Returned,2.0,Unknown
+133,ORD1133,C186,Rahul Sharma,60.0,North,Pune,"Dec 11,2025",Home,Mixer,1,4057,0.0,12000,UPI,Delivered,4.0,Google Ads
+134,ORD1134,C105,Amit Singh,25.0,South,Bhopal,"Jan 17,2025",Electronics,Headphones,1,506,0.0,5000,Cash,Returned,1.0,Unknown
+135,ORD1135,C136,Amit Singh ,45.0,North,Delhi,10/03/25,Electronics,Headphones,3,5452,10.0,2500,Cash,Cancelled,4.0,Unknown
+136,ORD1136,C049,Priya Patel,25.0,North,Pune,"Mar 21,2025",Home,Chair,4,7898,10.0,999,UPI,Delivered,5.0,Instagram
+137,ORD1137,C139,Neha Gupta,31.0,West,Jaipur,13-08-2025,Sports,Football,4,7238,10.0,999,Wallet,Delivered,5.0,Unknown
+138,ORD1138,C071,Rahul Sharma,31.0,East,Bhopal,"Jul 31,2025",Beauty,Face Wash,5,2634,15.0,0,Card,Returned,5.0,Google Ads
+139,ORD1139,C062,Neha Gupta,31.0,West,Delhi,04/05/25,Home,Mixer,3,5071,10.0,12000,Cash,Returned,5.0,Unknown
+140,ORD1140,C237,Vikram Das,25.0,West,Pune,2025-06-19,Electronics,Smartphone,4,5868,15.0,0,Card,Returned,3.0,Unknown
+142,ORD1142,C098,Vikram Das,25.0,South,Jaipur,"Feb 02,2026",Fashion,Shoes,4,6526,10.0,2500,Wallet,Returned,4.0,Instagram
+143,ORD1143,C145,Neha Gupta,31.0,North,Jaipur,2025-07-31,Sports,Cricket Bat,4,6986,10.0,12000,Wallet,Cancelled,3.0,Email
+144,ORD1144,C128,Karan Mehta ,25.0,West,Bhopal,14-07-2025,Fashion,T-Shirt,4,4491,15.0,999,Card,Delivered,2.0,Unknown
+145,ORD1145,C242,Rahul Sharma,25.0,North,Pune,2026-03-06,Sports,Football,3,6011,0.0,0,UPI,Delivered,2.0,Unknown
+146,ORD1146,Unknown,Rahul Sharma,25.0,West,Bhopal,12/04/25,Sports,Cricket Bat,1,3610,0.0,0,UPI,Cancelled,3.0,Google Ads
+147,ORD1147,C028,Priya Patel,31.0,North,Pune,17-02-2026,Groceries,Cooking Oil,1,2900,10.0,12000,Wallet,Delivered,3.0,Google Ads
+148,ORD1148,C179,Neha Gupta,25.0,North, Mumbai,17-10-2025,Home,Chair,3,6196,0.0,5000,Cash,Returned,5.0,Email
+149,ORD1149,C166,Karan Mehta,25.0,West,Delhi,09/13/25,Electronics,Headphones,1,5662,5.0,999,UPI,Cancelled,4.0,Google Ads
+150,ORD1150,C005,Neha Gupta,31.0,East, Mumbai,"Apr 02,2025",Electronics,Laptop,5,523,0.0,2500,UPI,Cancelled,2.0,Unknown
+151,ORD1151,C014,Priya Patel,45.0,North,Lucknow,"Sep 14,2025",Home,Mixer,3,4285,5.0,12000,Wallet,Cancelled,4.0,Google Ads
+152,ORD1152,C142,Sneha Joshi,31.0,East, Mumbai,"Apr 27,2025",Electronics,Headphones,5,6343,0.0,30000,Wallet,Delivered,2.0,Instagram
+153,ORD1153,C082,Karan Mehta ,25.0,North,Jaipur,01/14/26,Electronics,Smartphone,3,7622,10.0,5000,Card,Delivered,1.0,Facebook
+154,ORD1154,C023,Karan Mehta,25.0,South,Bhopal,2025-02-22,Electronics,Laptop,3,4275,10.0,0,Card,Returned,4.0,Instagram
+155,ORD1155,C069,Riya Shah,25.0,North, Mumbai,28-03-2025,Groceries,Rice,3,5333,10.0,999,Cash,Delivered,4.0,Google Ads
+156,ORD1156,C153,Neha Gupta,25.0,North,Jaipur,01/05/26,Sports,Football,3,7247,15.0,0,Cash,Delivered,5.0,Email
+157,ORD1157,C155,Neha Gupta,25.0,North,Bhopal,"Jun 03,2025",Beauty,Perfume,3,7806,10.0,2500,Card,Returned,5.0,Facebook
+159,ORD1159,C184,Sneha Joshi,25.0,West,Bhopal,10-05-2025,Home,Mixer,3,4217,15.0,12000,Cash,Cancelled,5.0,Email
+160,ORD1160,C169,Karan Mehta,21.0,East,Lucknow,25-02-2025,Groceries,Rice,3,1831,5.0,30000,Cash,Delivered,1.0,Instagram
+161,ORD1161,C101,Vikram Das,25.0,North,Lucknow,"Aug 17,2025",Fashion,T-Shirt,3,2199,15.0,0,Cash,Delivered,3.0,Email
+162,ORD1162,C201,Neha Gupta ,25.0,South,Bhopal,06/25/25,Electronics,Laptop,3,5793,20.0,0,Cash,Returned,3.0,Instagram
+163,ORD1163,C174,Amit Singh,45.0,West,Ahmedabad ,2025-11-28,Fashion,T-Shirt,2,6711,10.0,12000,UPI,Delivered,5.0,Email
+164,ORD1164,C102,Rahul Sharma,45.0,West,Bhopal,11/24/25,Sports,Football,3,3162,10.0,5000,UPI,Delivered,2.0,Google Ads
+165,ORD1165,C051,Vikram Das,60.0,West,Lucknow,"Jul 07,2025",Electronics,Headphones,2,3002,10.0,12000,Cash,Cancelled,4.0,Unknown
+166,ORD1166,C236,Priya Patel,31.0,South, Mumbai,"Feb 21,2026",Electronics,Smartphone,3,4135,10.0,999,Card,Delivered,2.0,Google Ads
+167,ORD1167,C109,Amit Singh,25.0,North,Ahmedabad ,10/22/25,Electronics,Headphones,3,6490,10.0,5000,Card,Delivered,2.0,Google Ads
+169,ORD1169,C075,Rahul Sharma,45.0,West,Jaipur,12-02-2026,Sports,Football,2,4652,0.0,999,Cash,Cancelled,3.0,Email
+171,ORD1171,C054,Karan Mehta ,25.0,North,Ahmedabad ,02-02-2026,Fashion,Shoes,2,6731,5.0,30000,UPI,Delivered,1.0,Unknown
+172,ORD1172,C075,Riya Shah,25.0,North,Bhopal,"Dec 27,2025",Beauty,Perfume,3,4719,10.0,0,Card,Delivered,3.0,Facebook
+173,ORD1173,C148,Riya Shah,25.0,East,Bhopal,08-09-2025,Fashion,T-Shirt,3,2981,10.0,0,UPI,Returned,5.0,Google Ads
+174,ORD1174,C188,Vikram Das,25.0,North,Bhopal,2026-03-21,Beauty,Perfume,10,3112,0.0,999,Cash,Delivered,4.0,Google Ads
+176,ORD1176,C226,Riya Shah,60.0,North,Lucknow,19-12-2025,Sports,Cricket Bat,1,1926,15.0,2500,UPI,Delivered,3.0,Facebook
+177,ORD1177,C181,Priya Patel,45.0,West, Mumbai,2025-12-02,Electronics,Smartphone,5,1353,10.0,999,Wallet,Delivered,5.0,Email
+178,ORD1178,C123,Priya Patel,25.0,North, Mumbai,22-12-2025,Electronics,Laptop,3,4220,10.0,0,Card,Delivered,3.0,Facebook
+179,ORD1179,C113,Karan Mehta,45.0,North,Bhopal,09-11-2025,Home,Chair,3,5984,0.0,12000,Cash,Delivered,1.0,Instagram
+180,ORD1180,C064,Riya Shah ,25.0,North,Jaipur,11-06-2025,Electronics,Laptop,3,5719,10.0,30000,UPI,Delivered,2.0,Unknown
+181,ORD1181,C127,Sneha Joshi,45.0,West, Mumbai,06-02-2026,Groceries,Rice,3,2776,0.0,12000,UPI,Delivered,3.0,Facebook
+182,ORD1182,C245,Priya Patel,25.0,North,Jaipur,01/26/26,Home,Mixer,3,934,10.0,999,UPI,Delivered,4.0,Unknown
+183,ORD1183,C022,Amit Singh,25.0,South, Mumbai,12/26/25,Fashion,Jeans,3,4885,10.0,12000,UPI,Delivered,5.0,Google Ads
+185,ORD1185,C033,Riya Shah,25.0,North,Lucknow,"Mar 27,2025",Electronics,Laptop,10,5478,20.0,30000,Cash,Delivered,5.0,Instagram
+186,ORD1186,C015,Vikram Das,31.0,South,Ahmedabad ,"Sep 19,2025",Fashion,Jeans,2,380,0.0,2500,UPI,Cancelled,3.0,Instagram
+187,ORD1187,C063,Rahul Sharma,25.0,East,Ahmedabad ,2026-03-16,Fashion,Jeans,3,906,0.0,999,UPI,Cancelled,3.0,Email
+188,ORD1188,C147,Karan Mehta,25.0,North,Ahmedabad ,2025-05-19,Fashion,Shoes,4,7054,10.0,999,Wallet,Delivered,4.0,Instagram
+189,ORD1189,C003,Karan Mehta ,60.0,South,Pune,10/11/25,Sports,Cricket Bat,5,2711,5.0,5000,Card,Cancelled,4.0,Facebook
+190,ORD1190,C139,Karan Mehta,21.0,South,Delhi,13-01-2025,Groceries,Rice,3,6258,10.0,30000,Cash,Delivered,1.0,Facebook
+192,ORD1192,C112,Amit Singh,60.0,South,Lucknow,2025-10-31,Electronics,Headphones,3,2067,5.0,30000,Cash,Delivered,3.0,Email
+193,ORD1193,C040,Priya Patel,25.0,West,Lucknow,2026-02-04,Fashion,T-Shirt,2,3600,10.0,5000,UPI,Cancelled,3.0,Facebook
+194,ORD1194,C207,Riya Shah,21.0,North,Lucknow,16-02-2025,Sports,Cricket Bat,10,6373,5.0,999,UPI,Delivered,3.0,Email
+195,ORD1195,C219,Vikram Das,25.0,North, Mumbai,01/16/25,Groceries,Rice,5,3208,10.0,5000,UPI,Delivered,1.0,Instagram
+197,ORD1197,C211,Sneha Joshi,21.0,East,Bhopal,04/19/26,Electronics,Laptop,10,3250,10.0,999,Card,Delivered,2.0,Google Ads
+198,ORD1198,C128,Sneha Joshi ,25.0,North, Mumbai,"Nov 28,2025",Fashion,Shoes,3,5765,15.0,2500,Cash,Delivered,4.0,Facebook
+199,ORD1199,C123,Vikram Das,25.0,South,Bhopal,"Feb 05,2026",Groceries,Rice,3,7202,10.0,2500,UPI,Delivered,3.0,Unknown
+200,ORD1200,C197,Neha Gupta,25.0,North,Pune,"Sep 29,2025",Fashion,T-Shirt,5,5526,0.0,2500,Wallet,Delivered,2.0,Unknown
+201,ORD1201,C207,Karan Mehta,21.0,South,Ahmedabad ,"Oct 31,2025",Home,Mixer,3,7504,15.0,12000,UPI,Returned,5.0,Google Ads
+202,ORD1202,C006,Vikram Das,25.0,North,Ahmedabad ,30-04-2025,Electronics,Smartphone,1,4372,0.0,2500,UPI,Delivered,1.0,Instagram
+203,ORD1203,C096,Sneha Joshi,25.0,South,Jaipur,2026-05-07,Electronics,Headphones,3,3471,10.0,2500,UPI,Delivered,3.0,Email
+205,ORD1205,C240,Vikram Das,25.0,North,Pune,2025-11-24,Electronics,Laptop,3,2167,15.0,2500,Card,Delivered,3.0,Instagram
+206,ORD1206,C090,Riya Shah,21.0,North,Bhopal,2025-05-08,Beauty,Perfume,1,4053,15.0,5000,Cash,Delivered,4.0,Email
+207,ORD1207,C202,Neha Gupta ,25.0,North,Delhi,03/01/26,Home,Mixer,3,4377,5.0,2500,UPI,Delivered,3.0,Instagram
+209,ORD1209,C170,Riya Shah,45.0,North,Delhi,"Jul 29,2025",Electronics,Laptop,3,2554,15.0,5000,Wallet,Cancelled,4.0,Facebook
+210,ORD1210,C052,Priya Patel,45.0,North,Jaipur,05/31/25,Electronics,Smartphone,1,1319,5.0,0,Cash,Delivered,3.0,Email
+211,ORD1211,C227,Sneha Joshi,31.0,West,Delhi,"Apr 05,2025",Sports,Cricket Bat,5,5430,10.0,2500,Cash,Returned,3.0,Facebook
+212,ORD1212,C207,Sneha Joshi,45.0,West,Delhi,"Feb 13,2025",Fashion,Jeans,1,3072,5.0,30000,Cash,Cancelled,4.0,Unknown
+213,ORD1213,C129,Amit Singh,25.0,North,Ahmedabad ,2025-07-22,Sports,Football,10,6477,5.0,999,UPI,Delivered,1.0,Email
+214,ORD1214,C082,Priya Patel,25.0,West,Bhopal,"Mar 04,2026",Electronics,Headphones,3,753,10.0,12000,Card,Delivered,5.0,Email
+215,ORD1215,C038,Priya Patel,25.0,South,Lucknow,01-08-2025,Electronics,Headphones,3,2532,5.0,5000,Card,Returned,3.0,Email
+216,ORD1216,C010,Sneha Joshi ,45.0,North,Bhopal,03/15/25,Sports,Football,3,3932,10.0,2500,Card,Delivered,3.0,Google Ads
+217,ORD1217,C250,Vikram Das,60.0,East, Mumbai,"Mar 10,2025",Fashion,Shoes,10,2028,15.0,999,Cash,Delivered,4.0,Email
+218,ORD1218,C182,Sneha Joshi,25.0,North,Ahmedabad ,"Feb 03,2025",Groceries,Cooking Oil,1,5236,10.0,999,UPI,Delivered,2.0,Instagram
+219,ORD1219,Unknown,Sneha Joshi,25.0,North,Pune,07/08/25,Sports,Football,3,4703,20.0,2500,Cash,Cancelled,4.0,Facebook
+220,ORD1220,C073,Rahul Sharma,21.0,North,Pune,2026-01-19,Sports,Cricket Bat,3,6969,20.0,30000,UPI,Delivered,3.0,Facebook
+221,ORD1221,C122,Amit Singh,31.0,North,Pune,2026-03-19,Fashion,Jeans,3,6569,0.0,2500,Wallet,Delivered,3.0,Google Ads
+222,ORD1222,C078,Sneha Joshi,25.0,North,Lucknow,04/22/25,Home,Mixer,3,2731,20.0,12000,Wallet,Cancelled,3.0,Google Ads
+223,ORD1223,C221,Riya Shah,60.0,North,Ahmedabad ,"Nov 24,2025",Electronics,Smartphone,2,7338,20.0,12000,UPI,Delivered,5.0,Email
+226,ORD1226,C150,Riya Shah,25.0,West,Delhi,"Jul 10,2025",Fashion,Jeans,5,1970,10.0,30000,Wallet,Cancelled,5.0,Instagram
+227,ORD1227,C106,Rahul Sharma,31.0,North,Lucknow,"Sep 29,2025",Sports,Football,3,7038,10.0,5000,Wallet,Returned,2.0,Google Ads
+228,ORD1228,C002,Vikram Das,45.0,North,Ahmedabad ,2025-06-10,Electronics,Laptop,10,668,10.0,5000,UPI,Delivered,5.0,Email
+229,ORD1229,C137,Neha Gupta,25.0,North,Lucknow,2025-01-03,Home,Mixer,3,2687,10.0,30000,Wallet,Delivered,1.0,Instagram
+230,ORD1230,C129,Riya Shah,25.0,North,Jaipur,02/22/25,Fashion,T-Shirt,3,2426,10.0,2500,Cash,Cancelled,5.0,Unknown
+231,ORD1231,C043,Sneha Joshi,45.0,North,Ahmedabad ,03-07-2025,Beauty,Perfume,3,7236,0.0,999,UPI,Cancelled,5.0,Facebook
+233,ORD1233,C078,Sneha Joshi,25.0,West,Jaipur,2025-04-16,Electronics,Headphones,5,3448,10.0,12000,Wallet,Delivered,4.0,Instagram
+235,ORD1235,C004,Priya Patel,25.0,North, Mumbai,2025-05-01,Groceries,Cooking Oil,4,1873,10.0,30000,Wallet,Delivered,3.0,Instagram
+236,ORD1236,C013,Priya Patel,21.0,South,Lucknow,05/16/25,Fashion,Jeans,4,1771,20.0,30000,Card,Returned,3.0,Instagram
+237,ORD1237,C229,Vikram Das,60.0,North,Lucknow,"Jun 18,2025",Electronics,Laptop,1,1646,10.0,30000,Card,Delivered,1.0,Email
+238,ORD1238,C167,Amit Singh,31.0,North,Ahmedabad ,02/14/26,Home,Mixer,5,6896,0.0,0,Cash,Cancelled,4.0,Unknown
+239,ORD1239,C124,Vikram Das,25.0,West,Delhi,18-03-2026,Sports,Football,3,1072,0.0,0,Card,Delivered,1.0,Unknown
+240,ORD1240,C124,Karan Mehta,25.0,North,Delhi,10-08-2025,Fashion,Jeans,3,3236,5.0,0,UPI,Cancelled,4.0,Email
+241,ORD1241,C013,Neha Gupta,25.0,East,Pune,"Jun 19,2025",Electronics,Laptop,10,4700,15.0,0,Cash,Returned,5.0,Email
+242,ORD1242,C027,Sneha Joshi,21.0,West,Delhi,2025-09-12,Electronics,Smartphone,10,3785,5.0,30000,UPI,Cancelled,5.0,Google Ads
+244,ORD1244,C180,Priya Patel,31.0,West,Ahmedabad ,"Oct 08,2025",Fashion,T-Shirt,3,6693,20.0,30000,Cash,Delivered,3.0,Unknown
+245,ORD1245,C184,Karan Mehta,25.0,North, Mumbai,23-08-2025,Fashion,T-Shirt,2,5621,15.0,30000,Cash,Returned,3.0,Unknown
+246,ORD1246,C215,Vikram Das,31.0,North,Ahmedabad ,10/11/25,Groceries,Rice,10,5344,0.0,0,Cash,Cancelled,5.0,Google Ads
+247,ORD1247,C247,Karan Mehta,25.0,North,Ahmedabad ,05/21/25,Groceries,Cooking Oil,3,490,15.0,5000,Wallet,Cancelled,3.0,Unknown
+249,ORD1249,C038,Rahul Sharma,21.0,North,Jaipur,01/13/25,Home,Mixer,3,1231,5.0,30000,UPI,Delivered,3.0,Google Ads
+250,ORD1250,C027,Neha Gupta,25.0,East,Pune,07/03/25,Electronics,Laptop,5,2562,0.0,12000,Card,Delivered,4.0,Email
+251,ORD1251,C052,Vikram Das,25.0,West,Pune,"Jan 16,2026",Home,Mixer,3,2930,0.0,30000,UPI,Delivered,4.0,Facebook
+252,ORD1252,C110,Riya Shah ,60.0,North,Ahmedabad ,2025-07-13,Electronics,Laptop,3,3503,5.0,12000,Card,Delivered,3.0,Email
+253,ORD1253,C126,Karan Mehta,25.0,West,Pune,"Feb 01,2026",Electronics,Laptop,3,5553,0.0,999,Wallet,Delivered,5.0,Facebook
+254,ORD1254,C170,Karan Mehta,25.0,South,Pune,29-03-2026,Home,Mixer,2,3853,15.0,30000,Wallet,Cancelled,4.0,Unknown
+255,ORD1255,C246,Rahul Sharma,25.0,East, Mumbai,09-04-2026,Electronics,Laptop,3,7119,15.0,5000,Card,Cancelled,3.0,Google Ads
+256,ORD1256,C076,Neha Gupta,25.0,North, Mumbai,2025-09-07,Electronics,Headphones,3,7061,0.0,999,Wallet,Cancelled,1.0,Instagram
+258,ORD1258,C234,Riya Shah,25.0,West,Bhopal,22-10-2025,Electronics,Laptop,5,4961,5.0,5000,Card,Delivered,4.0,Instagram
+259,ORD1259,C092,Priya Patel,60.0,North,Jaipur,2025-12-25,Groceries,Rice,2,5898,0.0,30000,Cash,Returned,4.0,Instagram
+260,ORD1260,C204,Riya Shah,31.0,South,Lucknow,01/18/26,Sports,Football,3,2264,10.0,0,Wallet,Cancelled,2.0,Instagram
+261,ORD1261,C192,Karan Mehta ,25.0,West,Ahmedabad ,06-06-2025,Electronics,Laptop,3,4050,5.0,999,UPI,Delivered,5.0,Google Ads
+262,ORD1262,C166,Priya Patel,25.0,South, Mumbai,03/12/26,Fashion,T-Shirt,3,3221,0.0,999,Wallet,Returned,3.0,Google Ads
+263,ORD1263,C231,Neha Gupta,25.0,West,Lucknow,2025-11-14,Electronics,Headphones,4,5298,20.0,12000,Card,Cancelled,2.0,Unknown
+264,ORD1264,C202,Neha Gupta,25.0,South,Lucknow,10-06-2025,Beauty,Perfume,3,967,0.0,999,Card,Returned,4.0,Email
+266,ORD1266,C142,Riya Shah,25.0,West,Ahmedabad ,2026-04-10,Electronics,Headphones,3,687,15.0,2500,Cash,Delivered,5.0,Google Ads
+267,ORD1267,C129,Rahul Sharma,45.0,North,Ahmedabad ,"Jul 23,2025",Electronics,Smartphone,3,3928,5.0,5000,UPI,Delivered,5.0,Unknown
+270,ORD1270,C125,Vikram Das ,21.0,West,Ahmedabad ,"Jun 30,2025",Groceries,Cooking Oil,3,5273,10.0,5000,UPI,Delivered,1.0,Unknown
+272,ORD1272,C147,Amit Singh,25.0,North,Ahmedabad ,23-01-2025,Electronics,Headphones,3,3743,15.0,0,UPI,Delivered,2.0,Unknown
+273,ORD1273,C223,Vikram Das,45.0,East,Ahmedabad ,08/18/25,Home,Chair,5,643,15.0,30000,Wallet,Delivered,5.0,Unknown
+274,ORD1274,C099,Amit Singh,21.0,North,Bhopal,04/28/25,Fashion,T-Shirt,3,3340,5.0,30000,UPI,Cancelled,1.0,Facebook
+275,ORD1275,C169,Amit Singh,25.0,North,Bhopal,02/17/25,Sports,Football,3,1738,5.0,12000,Cash,Delivered,1.0,Unknown
+276,ORD1276,C109,Amit Singh,25.0,North, Mumbai,2025-10-29,Home,Chair,10,537,10.0,2500,Wallet,Cancelled,4.0,Google Ads
+277,ORD1277,C097,Neha Gupta,25.0,East,Lucknow,2025-09-24,Fashion,T-Shirt,1,6220,5.0,0,UPI,Returned,3.0,Unknown
+278,ORD1278,C175,Sneha Joshi,25.0,West,Bhopal,"Nov 10,2025",Fashion,Shoes,3,3981,10.0,999,Card,Cancelled,5.0,Email
+279,ORD1279,C192,Neha Gupta ,31.0,North,Pune,2026-03-14,Fashion,Shoes,3,1436,10.0,12000,Cash,Delivered,5.0,Unknown
+280,ORD1280,C121,Sneha Joshi,25.0,South,Pune,26-02-2026,Electronics,Laptop,3,6693,5.0,2500,UPI,Cancelled,1.0,Email
+281,ORD1281,C052,Riya Shah,21.0,West,Pune,2025-08-13,Home,Mixer,1,7216,0.0,12000,UPI,Delivered,3.0,Facebook
+282,ORD1282,C104,Neha Gupta,21.0,North, Mumbai,06/30/25,Electronics,Laptop,2,6393,10.0,12000,Card,Cancelled,5.0,Google Ads
+283,ORD1283,C148,Rahul Sharma,31.0,East, Mumbai,08/21/25,Beauty,Perfume,4,7546,15.0,12000,UPI,Cancelled,3.0,Google Ads
+284,ORD1284,C248,Sneha Joshi,25.0,North,Lucknow,12/22/25,Electronics,Headphones,5,4028,20.0,30000,Cash,Returned,5.0,Instagram
+286,ORD1286,C091,Neha Gupta,60.0,North,Pune,"Sep 01,2025",Home,Mixer,2,3726,10.0,5000,UPI,Delivered,3.0,Facebook
+287,ORD1287,C040,Priya Patel,25.0,West,Delhi,"Mar 05,2026",Fashion,T-Shirt,4,3666,15.0,30000,Wallet,Delivered,4.0,Google Ads
+288,ORD1288,C102,Neha Gupta ,31.0,North,Bhopal,"Jan 27,2026",Beauty,Perfume,5,833,10.0,5000,Wallet,Delivered,5.0,Google Ads
+289,ORD1289,C004,Neha Gupta,25.0,South,Lucknow,2025-06-11,Home,Chair,10,5158,0.0,12000,Card,Delivered,5.0,Google Ads
+290,ORD1290,C128,Sneha Joshi,25.0,South,Lucknow,07-07-2025,Fashion,Shoes,10,651,10.0,30000,Cash,Delivered,4.0,Facebook
+291,ORD1291,C143,Sneha Joshi,45.0,North,Ahmedabad ,16-02-2026,Electronics,Headphones,4,2781,20.0,5000,UPI,Delivered,4.0,Email
+292,ORD1292,Unknown,Riya Shah,25.0,North,Bhopal,02/07/26,Electronics,Headphones,3,3947,10.0,0,UPI,Delivered,2.0,Google Ads
+293,ORD1293,C144,Riya Shah,21.0,East, Mumbai,"Jul 04,2025",Sports,Football,10,5571,20.0,2500,Wallet,Delivered,5.0,Unknown
+295,ORD1295,C081,Karan Mehta,60.0,South,Bhopal,25-06-2025,Home,Mixer,2,7119,10.0,2500,Cash,Delivered,3.0,Unknown
+296,ORD1296,C033,Neha Gupta,60.0,North,Pune,2026-03-14,Groceries,Cooking Oil,3,6423,10.0,999,Cash,Delivered,1.0,Instagram
+297,ORD1297,C159,Amit Singh ,25.0,South,Pune,"Feb 23,2025",Sports,Football,1,5772,5.0,999,Card,Returned,3.0,Facebook
+298,ORD1298,C221,Karan Mehta,25.0,West,Jaipur,"Dec 06,2025",Electronics,Headphones,3,5026,0.0,12000,Cash,Delivered,3.0,Unknown
+299,ORD1299,C233,Karan Mehta,25.0,North, Mumbai,"Sep 26,2025",Electronics,Headphones,10,641,10.0,5000,Card,Delivered,4.0,Google Ads
+300,ORD1300,C121,Rahul Sharma,25.0,West,Jaipur,"Jun 26,2025",Electronics,Smartphone,1,7977,10.0,0,Cash,Delivered,5.0,Facebook
+301,ORD1301,C102,Neha Gupta,25.0,East,Pune,03/28/26,Electronics,Headphones,3,7537,10.0,2500,UPI,Returned,3.0,Facebook
+304,ORD1304,C096,Vikram Das,21.0,South, Mumbai,06/09/25,Electronics,Smartphone,4,469,10.0,30000,UPI,Delivered,3.0,Email
+305,ORD1305,C210,Sneha Joshi,25.0,North,Bhopal,"Apr 04,2026",Electronics,Headphones,10,7231,15.0,30000,Cash,Delivered,3.0,Instagram
+306,ORD1306,C175,Riya Shah ,31.0,North, Mumbai,08/31/25,Fashion,Shoes,2,1915,15.0,2500,Cash,Delivered,2.0,Google Ads
+307,ORD1307,C084,Rahul Sharma,60.0,North,Bhopal,11/21/25,Electronics,Headphones,4,6760,15.0,30000,UPI,Delivered,1.0,Unknown
+309,ORD1309,C188,Neha Gupta,25.0,South,Ahmedabad ,02/17/26,Sports,Football,3,5504,10.0,2500,UPI,Returned,3.0,Email
+310,ORD1310,C140,Karan Mehta,25.0,South,Ahmedabad ,18-10-2025,Groceries,Cooking Oil,3,2277,15.0,0,Wallet,Delivered,4.0,Google Ads
+312,ORD1312,C165,Karan Mehta,25.0,West, Mumbai,06/15/25,Groceries,Cooking Oil,3,4267,20.0,0,UPI,Delivered,1.0,Facebook
+313,ORD1313,C169,Vikram Das,60.0,North,Lucknow,10/20/25,Electronics,Smartphone,4,450,0.0,999,Wallet,Delivered,1.0,Facebook
+316,ORD1316,C169,Amit Singh,25.0,South,Lucknow,"Sep 16,2025",Home,Chair,3,5787,10.0,12000,Card,Delivered,4.0,Email
+317,ORD1317,C093,Vikram Das,25.0,North,Delhi,"Jan 28,2026",Beauty,Face Wash,3,3144,10.0,2500,Wallet,Delivered,5.0,Facebook
+318,ORD1318,C006,Riya Shah,25.0,West,Ahmedabad ,"Mar 15,2026",Fashion,T-Shirt,5,1804,15.0,0,UPI,Returned,3.0,Facebook
+320,ORD1320,C236,Karan Mehta,25.0,East, Mumbai,2025-02-10,Electronics,Headphones,5,7603,10.0,30000,UPI,Cancelled,1.0,Email
+321,ORD1321,C084,Neha Gupta,21.0,East,Bhopal,04-10-2025,Electronics,Smartphone,3,6971,10.0,30000,Wallet,Cancelled,5.0,Instagram
+322,ORD1322,C022,Vikram Das,21.0,West,Bhopal,"Mar 09,2025",Fashion,Shoes,5,6292,10.0,2500,UPI,Returned,5.0,Email
+323,ORD1323,C167,Neha Gupta,25.0,North,Pune,09/07/25,Electronics,Laptop,10,3815,15.0,0,Card,Returned,3.0,Unknown
+324,ORD1324,C083,Karan Mehta ,21.0,South,Ahmedabad ,28-06-2025,Electronics,Laptop,3,4974,10.0,2500,Wallet,Returned,5.0,Facebook
+325,ORD1325,C029,Rahul Sharma,31.0,South,Delhi,2025-03-21,Sports,Football,4,2959,10.0,2500,UPI,Delivered,4.0,Email
+326,ORD1326,C141,Vikram Das,31.0,North,Bhopal,"Apr 15,2025",Electronics,Smartphone,4,4688,15.0,12000,Wallet,Delivered,3.0,Facebook
+327,ORD1327,C168,Rahul Sharma,25.0,South,Lucknow,01/28/25,Electronics,Smartphone,4,3850,20.0,30000,UPI,Delivered,3.0,Email
+328,ORD1328,C048,Neha Gupta,25.0,West,Delhi,2025-09-06,Fashion,Shoes,3,7647,10.0,0,UPI,Cancelled,3.0,Google Ads
+330,ORD1330,C023,Sneha Joshi,45.0,East,Pune,03-12-2025,Fashion,T-Shirt,3,622,10.0,12000,UPI,Returned,3.0,Unknown
+331,ORD1331,C149,Neha Gupta,60.0,West,Ahmedabad ,01-12-2025,Beauty,Perfume,3,4250,15.0,5000,UPI,Cancelled,2.0,Google Ads
+332,ORD1332,C187,Rahul Sharma,25.0,East,Jaipur,12-06-2025,Electronics,Headphones,3,5094,10.0,5000,Card,Delivered,2.0,Instagram
+334,ORD1334,C042,Neha Gupta,21.0,East,Delhi,31-08-2025,Sports,Cricket Bat,3,3280,0.0,2500,Cash,Delivered,3.0,Facebook
+335,ORD1335,C222,Vikram Das,25.0,East,Delhi,"Dec 19,2025",Fashion,T-Shirt,3,6217,0.0,12000,Cash,Delivered,4.0,Unknown
+336,ORD1336,C225,Neha Gupta,25.0,East,Delhi,2025-08-22,Groceries,Rice,3,6356,0.0,12000,Cash,Cancelled,3.0,Instagram
+337,ORD1337,C119,Amit Singh,60.0,North,Ahmedabad ,"Feb 01,2026",Fashion,Shoes,10,3111,20.0,5000,Cash,Delivered,3.0,Unknown
+338,ORD1338,C116,Rahul Sharma,25.0,North,Bhopal,"Jul 31,2025",Electronics,Laptop,3,2339,10.0,0,Card,Delivered,3.0,Facebook
+339,ORD1339,C187,Amit Singh,25.0,East,Delhi,02/13/25,Electronics,Laptop,2,5850,10.0,30000,UPI,Delivered,5.0,Facebook
+340,ORD1340,C187,Vikram Das,31.0,North,Ahmedabad ,"Jun 07,2025",Electronics,Laptop,3,1135,10.0,999,UPI,Cancelled,3.0,Instagram
+341,ORD1341,C061,Neha Gupta,25.0,West,Bhopal,11/08/25,Sports,Cricket Bat,10,6421,0.0,5000,UPI,Cancelled,5.0,Instagram
+342,ORD1342,C038,Rahul Sharma ,25.0,North,Ahmedabad ,26-01-2025,Fashion,Jeans,5,2292,15.0,30000,UPI,Cancelled,5.0,Google Ads
+345,ORD1345,C124,Riya Shah,25.0,South,Lucknow,2025-02-25,Groceries,Rice,4,5220,0.0,999,Wallet,Cancelled,4.0,Unknown
+347,ORD1347,C177,Riya Shah,25.0,South,Jaipur,06-01-2025,Electronics,Smartphone,3,5644,15.0,12000,Wallet,Delivered,1.0,Instagram
+349,ORD1349,C145,Karan Mehta,25.0,North,Pune,"Mar 04,2026",Groceries,Cooking Oil,10,7066,0.0,12000,Card,Delivered,1.0,Facebook
+350,ORD1350,C048,Priya Patel,25.0,North,Jaipur,10/20/25,Fashion,T-Shirt,3,5603,10.0,5000,UPI,Returned,2.0,Google Ads
+351,ORD1351,C096,Rahul Sharma ,25.0,West,Delhi,2025-03-31,Sports,Cricket Bat,4,484,20.0,30000,Cash,Cancelled,2.0,Facebook
+353,ORD1353,C027,Riya Shah,60.0,North,Lucknow,2026-04-01,Electronics,Headphones,2,7333,0.0,999,UPI,Delivered,3.0,Unknown
+354,ORD1354,C030,Rahul Sharma,25.0,West, Mumbai,"Mar 22,2025",Beauty,Perfume,2,6260,10.0,999,Wallet,Delivered,5.0,Google Ads
+355,ORD1355,C080,Karan Mehta,25.0,North,Ahmedabad ,2025-03-29,Fashion,T-Shirt,5,5353,15.0,0,Cash,Delivered,1.0,Email
+356,ORD1356,C158,Karan Mehta,25.0,North, Mumbai,12/27/25,Electronics,Laptop,3,6127,10.0,30000,Cash,Cancelled,2.0,Instagram
+357,ORD1357,C243,Neha Gupta,60.0,South,Bhopal,29-08-2025,Sports,Football,10,7158,0.0,999,Card,Delivered,4.0,Email
+358,ORD1358,C217,Amit Singh,25.0,North, Mumbai,09/03/25,Electronics,Laptop,10,1085,10.0,5000,UPI,Delivered,5.0,Instagram
+359,ORD1359,C141,Amit Singh,25.0,North,Lucknow,03-05-2025,Fashion,Jeans,10,2065,10.0,999,Wallet,Returned,4.0,Unknown
+360,ORD1360,C084,Priya Patel ,31.0,South,Bhopal,02/28/25,Beauty,Face Wash,3,2280,0.0,0,Wallet,Delivered,3.0,Unknown
+361,ORD1361,C228,Rahul Sharma,31.0,West,Jaipur,22-04-2025,Home,Mixer,10,6070,5.0,5000,Wallet,Cancelled,4.0,Facebook
+362,ORD1362,C184,Karan Mehta,21.0,West,Bhopal,04/16/26,Fashion,Jeans,3,720,20.0,30000,UPI,Delivered,1.0,Google Ads
+364,ORD1364,C216,Karan Mehta,31.0,South,Ahmedabad ,04/07/25,Groceries,Rice,3,1967,10.0,999,UPI,Delivered,3.0,Instagram
+365,ORD1365,Unknown,Sneha Joshi,25.0,North,Bhopal,13-02-2025,Electronics,Headphones,10,7009,10.0,12000,Cash,Cancelled,4.0,Email
+366,ORD1366,C217,Neha Gupta,25.0,South,Bhopal,10/23/25,Beauty,Face Wash,3,792,0.0,12000,Wallet,Delivered,1.0,Instagram
+367,ORD1367,C037,Riya Shah,25.0,North, Mumbai,2026-05-08,Sports,Cricket Bat,2,3926,0.0,999,Cash,Delivered,3.0,Unknown
+368,ORD1368,C132,Vikram Das,25.0,East,Lucknow,08/29/25,Fashion,Jeans,1,5385,0.0,30000,Card,Delivered,2.0,Instagram
+369,ORD1369,C147,Rahul Sharma ,60.0,North,Jaipur,24-10-2025,Fashion,Jeans,5,408,0.0,5000,UPI,Delivered,5.0,Instagram
+370,ORD1370,C004,Priya Patel,31.0,North,Bhopal,"May 21,2025",Fashion,Shoes,3,7964,20.0,2500,UPI,Delivered,3.0,Facebook
+372,ORD1372,C103,Vikram Das,25.0,West,Pune,03/27/25,Beauty,Face Wash,5,4452,0.0,5000,Cash,Returned,3.0,Facebook
+373,ORD1373,C247,Rahul Sharma,25.0,South,Bhopal,"Jul 15,2025",Groceries,Cooking Oil,1,630,0.0,12000,Card,Delivered,3.0,Google Ads
+375,ORD1375,C065,Neha Gupta,21.0,North,Delhi,"Apr 23,2025",Electronics,Headphones,2,1780,10.0,12000,UPI,Cancelled,3.0,Instagram
+377,ORD1377,C086,Rahul Sharma,60.0,North,Bhopal,07/15/25,Fashion,T-Shirt,2,6081,0.0,0,Cash,Delivered,5.0,Email
+378,ORD1378,C056,Priya Patel ,60.0,North,Delhi,10/04/25,Electronics,Headphones,10,6292,10.0,0,UPI,Cancelled,3.0,Google Ads
+379,ORD1379,C171,Sneha Joshi,31.0,South,Bhopal,2026-04-23,Sports,Football,10,6044,0.0,12000,UPI,Cancelled,3.0,Email
+381,ORD1381,C046,Rahul Sharma,45.0,South,Bhopal,28-11-2025,Beauty,Perfume,2,6899,20.0,0,Card,Returned,1.0,Email
+382,ORD1382,C126,Sneha Joshi,25.0,South,Bhopal,04-01-2026,Fashion,T-Shirt,1,900,0.0,12000,Cash,Delivered,1.0,Google Ads
+384,ORD1384,C232,Riya Shah,25.0,North, Mumbai,2025-03-30,Sports,Football,4,979,0.0,30000,UPI,Delivered,4.0,Unknown
+385,ORD1385,C084,Priya Patel,25.0,North,Lucknow,02/20/26,Fashion,T-Shirt,4,3025,10.0,30000,UPI,Delivered,5.0,Facebook
+386,ORD1386,C044,Karan Mehta,31.0,West,Pune,01/23/26,Beauty,Face Wash,2,363,10.0,12000,UPI,Delivered,1.0,Unknown
+388,ORD1388,C153,Amit Singh,25.0,North,Jaipur,2025-11-09,Groceries,Cooking Oil,3,4962,10.0,2500,Cash,Delivered,5.0,Facebook
+389,ORD1389,C119,Neha Gupta,21.0,North, Mumbai,18-03-2026,Fashion,T-Shirt,3,5722,10.0,30000,UPI,Returned,4.0,Facebook
+392,ORD1392,C019,Vikram Das,25.0,North,Bhopal,12-07-2025,Fashion,T-Shirt,4,7307,15.0,999,UPI,Cancelled,4.0,Facebook
+394,ORD1394,C057,Riya Shah,31.0,North,Pune,"Jan 25,2026",Electronics,Smartphone,10,1131,10.0,0,Cash,Cancelled,4.0,Facebook
+395,ORD1395,C064,Karan Mehta,45.0,North,Delhi,12-01-2026,Sports,Cricket Bat,5,6758,10.0,5000,UPI,Delivered,4.0,Unknown
+397,ORD1397,C042,Vikram Das,21.0,West,Bhopal,"Dec 09,2025",Fashion,T-Shirt,2,1919,0.0,30000,UPI,Returned,2.0,Google Ads
+398,ORD1398,C076,Sneha Joshi,25.0,North, Mumbai,2025-09-29,Sports,Football,2,6890,10.0,12000,Card,Delivered,5.0,Google Ads
+399,ORD1399,C094,Karan Mehta,25.0,North,Pune,2025-11-13,Electronics,Laptop,3,6395,0.0,999,Card,Delivered,5.0,Instagram
+400,ORD1400,C129,Sneha Joshi,21.0,North,Lucknow,"Apr 05,2026",Sports,Football,4,3884,10.0,2500,Cash,Returned,5.0,Unknown
+401,ORD1401,C205,Priya Patel,25.0,North, Mumbai,"Aug 20,2025",Electronics,Smartphone,3,5198,20.0,5000,UPI,Delivered,1.0,Instagram
+402,ORD1402,C134,Rahul Sharma,25.0,West,Ahmedabad ,19-03-2025,Electronics,Smartphone,2,4191,0.0,5000,Card,Returned,4.0,Instagram
+403,ORD1403,C106,Karan Mehta,25.0,West,Bhopal,"Mar 04,2026",Fashion,T-Shirt,2,5287,15.0,5000,Card,Cancelled,2.0,Google Ads
+404,ORD1404,C198,Rahul Sharma,25.0,South,Bhopal,"May 13,2026",Electronics,Smartphone,4,4614,10.0,999,Wallet,Delivered,3.0,Unknown
+405,ORD1405,C011,Karan Mehta ,31.0,West,Jaipur,2025-05-02,Fashion,T-Shirt,3,4264,10.0,2500,UPI,Delivered,5.0,Instagram
+406,ORD1406,C137,Riya Shah,21.0,East,Bhopal,04-10-2025,Beauty,Perfume,3,349,0.0,30000,UPI,Returned,3.0,Facebook
+408,ORD1408,C115,Karan Mehta,25.0,North,Pune,13-11-2025,Groceries,Rice,5,3290,10.0,12000,Wallet,Delivered,3.0,Facebook
+409,ORD1409,C050,Vikram Das,25.0,North,Lucknow,05/15/26,Electronics,Laptop,3,3841,5.0,5000,UPI,Returned,3.0,Email
+410,ORD1410,C224,Priya Patel,25.0,East,Bhopal,06/07/25,Beauty,Face Wash,5,5536,10.0,2500,UPI,Returned,3.0,Email
+411,ORD1411,C223,Karan Mehta,25.0,North,Delhi,06/05/25,Electronics,Headphones,2,4806,15.0,5000,Card,Returned,2.0,Unknown
+412,ORD1412,C011,Riya Shah,60.0,West,Bhopal,05/29/25,Sports,Football,4,6200,10.0,999,UPI,Delivered,2.0,Google Ads
+413,ORD1413,C126,Neha Gupta,25.0,South,Bhopal,02-08-2025,Fashion,Jeans,10,4777,20.0,0,Wallet,Delivered,5.0,Email
+414,ORD1414,C217,Riya Shah ,21.0,North,Lucknow,2025-09-20,Home,Mixer,10,3951,10.0,5000,UPI,Delivered,2.0,Instagram
+415,ORD1415,C136,Priya Patel,45.0,North, Mumbai,"May 29,2025",Fashion,Shoes,3,3871,0.0,12000,UPI,Cancelled,3.0,Google Ads
+416,ORD1416,C004,Amit Singh,60.0,South,Bhopal,26-02-2026,Fashion,Shoes,3,2598,10.0,5000,Card,Delivered,1.0,Facebook
+417,ORD1417,C235,Priya Patel,31.0,North,Bhopal,08/02/25,Electronics,Headphones,4,7573,5.0,2500,Card,Delivered,2.0,Email
+418,ORD1418,C057,Amit Singh,31.0,North,Jaipur,2026-01-17,Groceries,Cooking Oil,3,3139,0.0,999,UPI,Delivered,1.0,Email
+419,ORD1419,C028,Rahul Sharma,25.0,North,Bhopal,22-01-2025,Electronics,Laptop,1,1364,10.0,0,Card,Delivered,1.0,Google Ads
+420,ORD1420,C048,Karan Mehta,25.0,North,Jaipur,28-10-2025,Electronics,Laptop,2,7949,15.0,12000,Card,Delivered,2.0,Unknown
+422,ORD1422,C098,Sneha Joshi,25.0,North,Bhopal,"Mar 04,2026",Beauty,Face Wash,10,4222,10.0,0,Card,Delivered,4.0,Instagram
+423,ORD1423,C022,Karan Mehta ,25.0,East,Jaipur,2025-10-13,Groceries,Rice,10,6598,20.0,5000,Wallet,Delivered,3.0,Email
+425,ORD1425,C190,Amit Singh,25.0,North,Lucknow,2025-07-25,Groceries,Rice,2,7663,10.0,999,Wallet,Returned,1.0,Facebook
+426,ORD1426,C092,Vikram Das,25.0,West,Jaipur,01/23/26,Home,Mixer,5,2909,20.0,999,Cash,Delivered,1.0,Google Ads
+427,ORD1427,C213,Priya Patel,21.0,North,Bhopal,2025-02-20,Sports,Cricket Bat,4,993,0.0,12000,Card,Delivered,3.0,Unknown
+428,ORD1428,C170,Vikram Das,25.0,South,Lucknow,"Apr 14,2025",Electronics,Laptop,3,4429,0.0,30000,Wallet,Cancelled,1.0,Instagram
+430,ORD1430,C169,Vikram Das,25.0,North,Delhi,10/19/25,Fashion,Jeans,3,5185,5.0,5000,Card,Returned,5.0,Email
+431,ORD1431,C033,Karan Mehta,21.0,South,Bhopal,2025-10-30,Beauty,Perfume,3,3815,0.0,0,Cash,Delivered,3.0,Email
+432,ORD1432,C152,Priya Patel ,25.0,South, Mumbai,"Nov 28,2025",Beauty,Face Wash,4,7908,15.0,2500,UPI,Delivered,5.0,Google Ads
+433,ORD1433,C179,Vikram Das,21.0,South,Bhopal,2025-05-17,Electronics,Smartphone,3,2313,10.0,12000,Cash,Delivered,5.0,Instagram
+435,ORD1435,C160,Priya Patel,25.0,South,Jaipur,16-02-2026,Fashion,T-Shirt,5,7489,10.0,0,Wallet,Cancelled,4.0,Email
+437,ORD1437,C240,Rahul Sharma,45.0,South,Bhopal,05/18/25,Electronics,Headphones,10,7017,0.0,999,UPI,Delivered,3.0,Google Ads
+438,ORD1438,Unknown,Riya Shah,31.0,South,Pune,03/10/26,Home,Mixer,3,2365,15.0,5000,UPI,Delivered,2.0,Facebook
+439,ORD1439,C109,Rahul Sharma,31.0,South,Ahmedabad ,10/14/25,Electronics,Laptop,5,5441,0.0,0,Card,Delivered,3.0,Unknown
+440,ORD1440,C081,Riya Shah,25.0,South, Mumbai,2025-01-29,Electronics,Headphones,1,2518,0.0,5000,UPI,Delivered,1.0,Unknown
+441,ORD1441,C061,Priya Patel ,25.0,East,Pune,2025-09-12,Groceries,Rice,3,4827,20.0,5000,UPI,Delivered,1.0,Facebook
+442,ORD1442,C126,Karan Mehta,25.0,South,Bhopal,2026-03-18,Fashion,Shoes,10,2004,20.0,5000,UPI,Delivered,2.0,Google Ads
+445,ORD1445,C225,Priya Patel,60.0,West, Mumbai,01/03/26,Electronics,Smartphone,10,6557,10.0,2500,Cash,Cancelled,3.0,Unknown
+446,ORD1446,C203,Amit Singh,25.0,North,Jaipur,11/19/25,Beauty,Perfume,1,1457,10.0,2500,Wallet,Delivered,1.0,Facebook
+448,ORD1448,C242,Neha Gupta,21.0,West,Pune,03/25/26,Electronics,Smartphone,3,967,10.0,0,Cash,Delivered,3.0,Facebook
+449,ORD1449,C246,Karan Mehta,25.0,North,Bhopal,2025-03-18,Electronics,Smartphone,3,6803,20.0,30000,Cash,Returned,1.0,Facebook
+450,ORD1450,C111,Neha Gupta ,45.0,South,Pune,15-07-2025,Fashion,T-Shirt,5,7089,0.0,5000,UPI,Returned,2.0,Instagram
+451,ORD1451,C095,Vikram Das,21.0,West,Ahmedabad ,10-04-2026,Fashion,Shoes,4,2943,0.0,30000,Card,Returned,3.0,Facebook
+452,ORD1452,C014,Karan Mehta,25.0,South,Delhi,2025-10-13,Home,Mixer,5,3439,5.0,0,Card,Cancelled,5.0,Email
+453,ORD1453,C067,Amit Singh,25.0,South,Bhopal,25-10-2025,Fashion,Shoes,3,851,0.0,999,UPI,Delivered,3.0,Unknown
+454,ORD1454,C128,Riya Shah,25.0,East,Jaipur,23-01-2025,Home,Chair,5,3485,10.0,2500,Wallet,Delivered,5.0,Google Ads
+455,ORD1455,C014,Neha Gupta,21.0,North,Ahmedabad ,10/12/25,Home,Chair,3,4446,10.0,0,Cash,Delivered,2.0,Email
+456,ORD1456,C118,Vikram Das,31.0,North,Lucknow,07/02/25,Home,Chair,10,5827,0.0,0,UPI,Delivered,2.0,Facebook
+457,ORD1457,C107,Priya Patel,25.0,North,Lucknow,27-09-2025,Groceries,Cooking Oil,4,6403,0.0,0,Card,Delivered,4.0,Google Ads
+459,ORD1459,C191,Priya Patel ,25.0,North,Bhopal,2026-02-13,Electronics,Laptop,1,6769,10.0,2500,UPI,Delivered,4.0,Instagram
+460,ORD1460,C031,Riya Shah,25.0,South,Ahmedabad ,26-05-2025,Electronics,Laptop,3,964,10.0,2500,UPI,Delivered,5.0,Facebook
+461,ORD1461,C024,Sneha Joshi,31.0,East,Bhopal,10/16/25,Sports,Cricket Bat,3,3027,20.0,0,UPI,Cancelled,3.0,Email
+463,ORD1463,C132,Priya Patel,25.0,East, Mumbai,2026-04-15,Fashion,Jeans,1,6200,5.0,5000,Wallet,Delivered,3.0,Google Ads
+464,ORD1464,C216,Sneha Joshi,25.0,East,Jaipur,02-04-2025,Electronics,Headphones,1,6114,0.0,2500,Wallet,Returned,3.0,Email
+465,ORD1465,C224,Priya Patel,25.0,North,Delhi,"Feb 10,2025",Fashion,Shoes,3,3113,10.0,5000,UPI,Delivered,2.0,Email
+466,ORD1466,C206,Riya Shah,31.0,North,Delhi,12/20/25,Sports,Cricket Bat,10,5683,10.0,999,UPI,Delivered,3.0,Facebook
+467,ORD1467,C023,Riya Shah,31.0,West,Bhopal,12-08-2025,Electronics,Laptop,10,3318,15.0,0,UPI,Delivered,2.0,Email
+469,ORD1469,C060,Rahul Sharma,21.0,East,Lucknow,09/06/25,Groceries,Cooking Oil,1,2482,10.0,12000,UPI,Delivered,3.0,Email
+470,ORD1470,C006,Amit Singh,45.0,West,Lucknow,08/18/25,Sports,Football,10,5296,10.0,5000,UPI,Cancelled,2.0,Unknown
+472,ORD1472,C078,Neha Gupta,25.0,North,Delhi,04/28/26,Fashion,T-Shirt,10,7857,10.0,2500,Card,Delivered,3.0,Facebook
+473,ORD1473,C159,Neha Gupta,25.0,North,Bhopal,2025-08-09,Electronics,Headphones,1,6047,10.0,2500,Card,Delivered,1.0,Unknown
+474,ORD1474,C238,Vikram Das,25.0,North, Mumbai,2025-12-28,Fashion,T-Shirt,3,6229,5.0,30000,Wallet,Delivered,5.0,Instagram
+476,ORD1476,C088,Riya Shah,31.0,North,Jaipur,03/04/26,Fashion,Shoes,3,7097,15.0,2500,Cash,Delivered,3.0,Facebook
+477,ORD1477,C106,Sneha Joshi ,25.0,South,Delhi,02/15/26,Electronics,Headphones,3,6171,10.0,5000,UPI,Delivered,3.0,Unknown
+479,ORD1479,C231,Amit Singh,25.0,West,Pune,"Feb 28,2026",Groceries,Cooking Oil,3,5875,0.0,12000,Wallet,Cancelled,3.0,Email
+480,ORD1480,C100,Amit Singh,25.0,South,Pune,"Jan 19,2025",Beauty,Perfume,4,4159,5.0,0,Wallet,Cancelled,3.0,Unknown
+481,ORD1481,C186,Sneha Joshi,25.0,North,Lucknow,"May 04,2025",Beauty,Face Wash,1,3616,20.0,2500,Wallet,Delivered,1.0,Instagram
+483,ORD1483,C117,Priya Patel,25.0,East, Mumbai,"Feb 26,2026",Electronics,Smartphone,3,493,15.0,0,UPI,Returned,2.0,Email
+485,ORD1485,C178,Neha Gupta,25.0,North,Ahmedabad ,2026-05-11,Groceries,Rice,10,7533,10.0,12000,Card,Delivered,5.0,Email
+486,ORD1486,C031,Karan Mehta ,25.0,South,Jaipur,21-01-2025,Electronics,Laptop,3,2961,20.0,5000,UPI,Delivered,2.0,Unknown
+487,ORD1487,C001,Priya Patel,25.0,North,Delhi,04/04/25,Home,Chair,5,4011,15.0,5000,Cash,Cancelled,3.0,Unknown
+488,ORD1488,C130,Vikram Das,25.0,North,Lucknow,26-01-2026,Sports,Cricket Bat,3,4183,10.0,0,Wallet,Cancelled,4.0,Email
+489,ORD1489,C189,Riya Shah,25.0,North,Delhi,05/06/26,Fashion,Shoes,3,4708,0.0,12000,Card,Cancelled,3.0,Instagram
+490,ORD1490,C193,Vikram Das,21.0,North,Ahmedabad ,06-05-2026,Groceries,Rice,4,3125,0.0,0,Card,Delivered,2.0,Unknown
+491,ORD1491,C126,Rahul Sharma,25.0,North,Bhopal,2025-07-25,Sports,Football,3,5586,10.0,0,Wallet,Delivered,4.0,Google Ads
+493,ORD1493,C037,Sneha Joshi,60.0,East, Mumbai,"Feb 20,2025",Electronics,Laptop,1,3238,10.0,0,UPI,Delivered,5.0,Unknown
+494,ORD1494,C069,Rahul Sharma,25.0,West,Bhopal,2026-05-02,Fashion,Shoes,3,4773,10.0,0,Cash,Delivered,4.0,Facebook
+495,ORD1495,C078,Sneha Joshi ,25.0,West,Pune,07-05-2025,Electronics,Smartphone,3,7814,5.0,30000,UPI,Delivered,5.0,Facebook
+496,ORD1496,C209,Vikram Das,60.0,North,Delhi,2025-01-22,Fashion,Jeans,3,3523,0.0,0,Cash,Delivered,5.0,Google Ads
+497,ORD1497,C190,Priya Patel,25.0,East, Mumbai,24-01-2025,Home,Mixer,4,4046,20.0,30000,UPI,Cancelled,3.0,Email
+498,ORD1498,C193,Vikram Das,45.0,South,Lucknow,"Nov 22,2025",Fashion,Jeans,3,1215,10.0,999,Cash,Cancelled,3.0,Instagram
+499,ORD1499,C173,Amit Singh,25.0,West,Bhopal,2025-01-03,Electronics,Headphones,1,6703,0.0,12000,UPI,Delivered,5.0,Instagram
+500,ORD1500,C215,Rahul Sharma,25.0,South,Pune,18-07-2025,Sports,Football,3,7506,10.0,5000,UPI,Delivered,3.0,Instagram
+501,ORD1501,C207,Neha Gupta,25.0,South,Delhi,"Feb 22,2026",Fashion,Jeans,3,1419,5.0,2500,Cash,Cancelled,2.0,Instagram
+503,ORD1503,C175,Vikram Das,25.0,North,Lucknow,"May 12,2026",Fashion,Jeans,5,3885,0.0,5000,Cash,Delivered,1.0,Unknown
+504,ORD1504,C013,Riya Shah ,25.0,West,Lucknow,29-03-2026,Sports,Cricket Bat,3,6917,0.0,0,Cash,Delivered,3.0,Instagram
+505,ORD1505,C051,Amit Singh,60.0,North, Mumbai,15-04-2026,Electronics,Headphones,4,6044,5.0,0,Cash,Returned,1.0,Unknown
+506,ORD1506,C214,Rahul Sharma,25.0,North, Mumbai,"May 03,2025",Beauty,Perfume,4,3198,0.0,30000,Wallet,Cancelled,4.0,Instagram
+507,ORD1507,C228,Priya Patel,21.0,West,Delhi,"Jul 13,2025",Sports,Football,2,3170,0.0,2500,Wallet,Returned,1.0,Instagram
+508,ORD1508,C159,Sneha Joshi,21.0,West,Bhopal,2025-07-25,Electronics,Headphones,1,399,10.0,5000,Cash,Cancelled,5.0,Instagram
+510,ORD1510,C016,Amit Singh,25.0,West,Lucknow,2026-02-13,Sports,Cricket Bat,3,1931,10.0,2500,Wallet,Cancelled,2.0,Facebook
+511,ORD1511,Unknown,Amit Singh,45.0,West,Delhi,2026-05-12,Sports,Cricket Bat,3,7216,10.0,5000,Card,Delivered,2.0,Facebook
+512,ORD1512,C219,Karan Mehta,60.0,East,Lucknow,"Nov 04,2025",Electronics,Smartphone,4,3044,0.0,999,UPI,Returned,1.0,Email
+513,ORD1513,C062,Vikram Das ,25.0,East,Pune,16-11-2025,Fashion,T-Shirt,4,6876,0.0,5000,UPI,Delivered,3.0,Instagram
+514,ORD1514,C113,Neha Gupta,25.0,North,Delhi,"Mar 14,2025",Electronics,Smartphone,1,5691,5.0,999,UPI,Delivered,2.0,Facebook
+515,ORD1515,C006,Amit Singh,25.0,North,Ahmedabad ,02-04-2025,Fashion,Jeans,3,3847,15.0,5000,UPI,Delivered,2.0,Google Ads
+516,ORD1516,C225,Priya Patel,31.0,North,Pune,04/27/26,Sports,Football,3,4754,10.0,999,Wallet,Returned,3.0,Google Ads
+517,ORD1517,C203,Amit Singh,45.0,North,Jaipur,"Mar 14,2026",Beauty,Perfume,4,5457,15.0,30000,UPI,Cancelled,5.0,Email
+518,ORD1518,C193,Karan Mehta,25.0,West,Ahmedabad ,03/27/25,Fashion,Jeans,2,4502,5.0,2500,Card,Cancelled,3.0,Email
+519,ORD1519,C054,Neha Gupta,25.0,North,Bhopal,2025-11-23,Sports,Cricket Bat,5,4981,10.0,999,Card,Returned,4.0,Unknown
+520,ORD1520,C076,Vikram Das,25.0,North,Delhi,2025-03-10,Electronics,Smartphone,5,3464,5.0,5000,Wallet,Cancelled,3.0,Email
+521,ORD1521,C082,Riya Shah,21.0,North,Bhopal,02/16/26,Sports,Cricket Bat,3,7900,10.0,999,Card,Delivered,3.0,Instagram
+522,ORD1522,C238,Neha Gupta ,25.0,North,Lucknow,"Feb 07,2026",Fashion,Jeans,3,1242,5.0,0,Wallet,Delivered,3.0,Facebook
+523,ORD1523,C219,Riya Shah,60.0,South,Lucknow,28-12-2025,Beauty,Perfume,5,6027,15.0,30000,Cash,Returned,5.0,Instagram
+524,ORD1524,C122,Neha Gupta,25.0,West,Bhopal,06-01-2026,Sports,Football,3,6744,15.0,2500,UPI,Delivered,2.0,Email
+525,ORD1525,C148,Amit Singh,21.0,West,Lucknow,11-07-2025,Home,Chair,10,1553,0.0,2500,UPI,Returned,4.0,Email
+526,ORD1526,C237,Amit Singh,25.0,East,Bhopal,2025-10-18,Groceries,Cooking Oil,3,1464,0.0,999,Cash,Delivered,5.0,Email
+527,ORD1527,C024,Amit Singh,25.0,North,Delhi,"Nov 24,2025",Fashion,Shoes,2,407,0.0,30000,Wallet,Returned,1.0,Facebook
+528,ORD1528,C169,Priya Patel,21.0,South,Delhi,"Apr 30,2025",Fashion,T-Shirt,3,7911,15.0,999,Card,Returned,4.0,Facebook
+529,ORD1529,C100,Neha Gupta,45.0,South,Bhopal,2026-01-16,Electronics,Laptop,3,4279,0.0,30000,Cash,Delivered,5.0,Unknown
+530,ORD1530,C002,Amit Singh,25.0,East,Pune,22-05-2025,Fashion,Jeans,4,7092,0.0,12000,Card,Cancelled,4.0,Email
+531,ORD1531,C101,Amit Singh ,45.0,North,Bhopal,"Jun 27,2025",Sports,Football,2,5096,0.0,5000,Cash,Delivered,3.0,Unknown
+532,ORD1532,C171,Priya Patel,45.0,West,Bhopal,"May 21,2025",Electronics,Smartphone,1,3800,10.0,30000,Wallet,Delivered,3.0,Instagram
+533,ORD1533,C054,Rahul Sharma,21.0,North,Bhopal,"Mar 26,2025",Electronics,Headphones,3,7148,0.0,5000,Card,Returned,2.0,Email
+535,ORD1535,C032,Sneha Joshi,25.0,North,Jaipur,"Apr 01,2025",Electronics,Laptop,1,5288,5.0,999,Cash,Delivered,2.0,Facebook
+536,ORD1536,C215,Priya Patel,60.0,West,Delhi,2025-12-23,Electronics,Headphones,3,5419,0.0,12000,UPI,Delivered,4.0,Facebook
+537,ORD1537,C008,Rahul Sharma,45.0,North,Pune,01/09/25,Fashion,Shoes,4,6151,5.0,0,UPI,Delivered,1.0,Email
+538,ORD1538,C240,Sneha Joshi,25.0,North,Pune,16-11-2025,Groceries,Rice,3,758,15.0,0,Card,Delivered,2.0,Instagram
+539,ORD1539,C017,Riya Shah,25.0,North, Mumbai,23-08-2025,Home,Mixer,1,5218,15.0,999,Cash,Delivered,5.0,Email
+540,ORD1540,C154,Karan Mehta ,25.0,North,Lucknow,2025-05-09,Electronics,Headphones,3,5352,10.0,999,Card,Returned,1.0,Google Ads
+543,ORD1543,C088,Neha Gupta,25.0,North,Pune,"Apr 28,2025",Electronics,Headphones,3,3752,0.0,30000,UPI,Cancelled,4.0,Unknown
+544,ORD1544,C018,Neha Gupta,31.0,North,Ahmedabad ,03/22/26,Beauty,Face Wash,10,1028,5.0,0,UPI,Cancelled,5.0,Facebook
+545,ORD1545,C185,Neha Gupta,25.0,North,Pune,09-06-2025,Fashion,Jeans,2,5367,0.0,2500,Card,Cancelled,4.0,Facebook
+546,ORD1546,C121,Vikram Das,25.0,East,Ahmedabad ,13-07-2025,Fashion,Shoes,2,1336,10.0,30000,Cash,Delivered,4.0,Email
+547,ORD1547,C119,Riya Shah,60.0,East,Bhopal,05/12/25,Electronics,Smartphone,3,6062,10.0,0,Card,Delivered,3.0,Email
+548,ORD1548,C126,Sneha Joshi,25.0,South,Bhopal,"Mar 18,2026",Fashion,T-Shirt,4,7358,0.0,5000,Card,Cancelled,1.0,Email
+552,ORD1552,C209,Amit Singh,45.0,East,Jaipur,"Nov 22,2025",Fashion,Jeans,3,2223,5.0,0,UPI,Returned,1.0,Instagram
+556,ORD1556,C097,Riya Shah,25.0,South,Bhopal,2025-09-25,Electronics,Headphones,1,4133,15.0,2500,Card,Delivered,3.0,Facebook
+558,ORD1558,C132,Sneha Joshi ,45.0,North,Lucknow,11/13/25,Groceries,Cooking Oil,4,1436,0.0,0,Card,Delivered,3.0,Google Ads
+559,ORD1559,C241,Vikram Das,25.0,East,Jaipur,06/28/25,Sports,Football,10,6106,5.0,12000,UPI,Delivered,5.0,Unknown
+560,ORD1560,C044,Vikram Das,25.0,West,Pune,06/04/25,Groceries,Rice,3,6750,5.0,999,UPI,Delivered,3.0,Instagram
+562,ORD1562,C097,Sneha Joshi,25.0,East,Pune,"Nov 26,2025",Electronics,Headphones,3,1862,5.0,999,Card,Delivered,3.0,Instagram
+563,ORD1563,C147,Karan Mehta,25.0,East,Delhi,2026-01-17,Electronics,Laptop,3,7857,15.0,2500,UPI,Cancelled,5.0,Facebook
+564,ORD1564,C028,Sneha Joshi,25.0,West,Lucknow,24-09-2025,Home,Mixer,3,7252,10.0,999,Card,Delivered,4.0,Email
+565,ORD1565,C080,Priya Patel,25.0,North,Bhopal,"Nov 03,2025",Electronics,Headphones,5,1204,0.0,2500,Cash,Delivered,3.0,Facebook
+566,ORD1566,C187,Sneha Joshi,31.0,North,Bhopal,03/15/26,Fashion,Jeans,4,5350,10.0,2500,Cash,Returned,3.0,Email
+567,ORD1567,C180,Sneha Joshi ,31.0,South,Delhi,23-12-2025,Home,Chair,3,3995,20.0,30000,Card,Returned,3.0,Facebook
+569,ORD1569,C031,Karan Mehta,25.0,North,Bhopal,2026-04-29,Electronics,Laptop,3,3856,10.0,999,UPI,Delivered,2.0,Email
+570,ORD1570,C222,Sneha Joshi,25.0,South,Delhi,02/03/26,Sports,Cricket Bat,3,7100,5.0,0,UPI,Delivered,1.0,Email
+571,ORD1571,C204,Amit Singh,25.0,East,Jaipur,2025-05-21,Groceries,Rice,1,5901,0.0,12000,UPI,Delivered,3.0,Instagram
+572,ORD1572,C017,Priya Patel,25.0,North,Ahmedabad ,10/12/25,Groceries,Rice,3,7670,10.0,0,Wallet,Returned,3.0,Instagram
+573,ORD1573,C218,Rahul Sharma,25.0,West,Jaipur,"Oct 15,2025",Electronics,Laptop,4,472,5.0,2500,Wallet,Delivered,4.0,Instagram
+574,ORD1574,C036,Vikram Das,25.0,West,Lucknow,12/04/25,Fashion,Shoes,1,3782,20.0,12000,Wallet,Cancelled,2.0,Instagram
+575,ORD1575,C246,Amit Singh,25.0,North,Lucknow,03-06-2025,Electronics,Laptop,1,4779,10.0,2500,UPI,Cancelled,4.0,Instagram
+576,ORD1576,C022,Riya Shah ,25.0,North,Pune,07/24/25,Groceries,Cooking Oil,5,4101,10.0,0,Card,Delivered,3.0,Google Ads
+577,ORD1577,C098,Rahul Sharma,45.0,North,Jaipur,02/08/26,Groceries,Rice,3,4761,10.0,0,Wallet,Delivered,3.0,Unknown
+578,ORD1578,C200,Riya Shah,45.0,South,Delhi,"Apr 11,2026",Home,Chair,3,6319,10.0,0,Cash,Delivered,4.0,Instagram
+579,ORD1579,C180,Riya Shah,60.0,North,Delhi,"Feb 18,2025",Electronics,Laptop,3,2462,0.0,999,Card,Returned,2.0,Google Ads
+580,ORD1580,C176,Amit Singh,31.0,North,Bhopal,2025-05-13,Groceries,Cooking Oil,10,1004,10.0,12000,Card,Delivered,3.0,Google Ads
+581,ORD1581,C205,Vikram Das,60.0,South,Bhopal,"Aug 13,2025",Fashion,Jeans,3,3504,10.0,12000,UPI,Delivered,3.0,Instagram
+582,ORD1582,C242,Priya Patel,21.0,North,Jaipur,09-02-2025,Fashion,Shoes,3,3950,5.0,12000,Cash,Delivered,4.0,Unknown
+583,ORD1583,C158,Neha Gupta,21.0,East,Lucknow,2025-07-27,Electronics,Smartphone,10,1679,5.0,999,Wallet,Cancelled,1.0,Unknown
+584,ORD1584,Unknown,Amit Singh,25.0,North,Bhopal,"Feb 08,2025",Sports,Football,3,771,10.0,5000,Cash,Delivered,3.0,Instagram
+585,ORD1585,C076,Riya Shah ,21.0,East,Pune,06/03/25,Beauty,Face Wash,3,4476,20.0,2500,Wallet,Delivered,4.0,Unknown
+586,ORD1586,C091,Priya Patel,25.0,North,Bhopal,"Jun 18,2025",Sports,Football,3,2572,0.0,2500,UPI,Delivered,4.0,Email
+587,ORD1587,C234,Vikram Das,31.0,South,Pune,2025-07-30,Fashion,T-Shirt,3,2911,10.0,5000,Cash,Delivered,3.0,Google Ads
+588,ORD1588,C042,Amit Singh,25.0,North,Lucknow,08/13/25,Home,Chair,3,4363,5.0,30000,UPI,Delivered,2.0,Google Ads
+589,ORD1589,C042,Neha Gupta,60.0,North,Bhopal,2026-04-07,Electronics,Laptop,3,5090,10.0,5000,Wallet,Returned,3.0,Facebook
+590,ORD1590,C203,Rahul Sharma,31.0,South,Delhi,2025-02-26,Beauty,Perfume,3,1175,10.0,30000,UPI,Delivered,3.0,Google Ads
+591,ORD1591,C022,Sneha Joshi,31.0,West,Ahmedabad ,05/25/25,Home,Chair,3,7741,20.0,999,Card,Delivered,3.0,Facebook
+592,ORD1592,C059,Priya Patel,25.0,North,Jaipur,07-04-2025,Home,Chair,10,5780,10.0,999,UPI,Returned,1.0,Unknown
+593,ORD1593,C180,Neha Gupta,25.0,East,Bhopal,"Sep 26,2025",Fashion,T-Shirt,1,5087,10.0,0,Wallet,Returned,3.0,Instagram
+594,ORD1594,C183,Sneha Joshi ,25.0,North,Ahmedabad ,"Apr 28,2026",Fashion,T-Shirt,5,1790,20.0,0,UPI,Delivered,3.0,Google Ads
+595,ORD1595,C065,Vikram Das,25.0,South, Mumbai,09-08-2025,Fashion,Shoes,10,865,5.0,0,UPI,Cancelled,2.0,Google Ads
+596,ORD1596,C054,Sneha Joshi,25.0,North, Mumbai,"May 02,2025",Beauty,Perfume,3,7050,10.0,0,Wallet,Delivered,2.0,Email
+597,ORD1597,C195,Neha Gupta,31.0,North,Ahmedabad ,06/04/25,Electronics,Laptop,3,5491,10.0,999,Cash,Cancelled,3.0,Google Ads
+598,ORD1598,C018,Vikram Das,25.0,West,Delhi,04/12/26,Groceries,Cooking Oil,3,2339,5.0,999,Wallet,Delivered,3.0,Facebook
+599,ORD1599,C043,Vikram Das,25.0,West,Bhopal,2025-09-11,Fashion,T-Shirt,1,5684,10.0,5000,Wallet,Delivered,2.0,Facebook
+600,ORD1600,C129,Riya Shah,45.0,South,Jaipur,03/27/26,Electronics,Laptop,4,4725,0.0,12000,UPI,Delivered,2.0,Instagram
+601,ORD1601,C238,Amit Singh,21.0,North,Pune,"Apr 28,2026",Groceries,Rice,5,5393,10.0,12000,UPI,Delivered,3.0,Google Ads
+602,ORD1602,C105,Riya Shah,21.0,North,Lucknow,05-01-2026,Beauty,Perfume,2,4877,20.0,999,Card,Delivered,3.0,Instagram
+603,ORD1603,C057,Karan Mehta ,45.0,East,Ahmedabad ,02/23/26,Groceries,Rice,3,2521,15.0,5000,UPI,Returned,3.0,Facebook
+604,ORD1604,C049,Vikram Das,31.0,South,Delhi,05-04-2025,Sports,Football,10,6844,0.0,2500,UPI,Delivered,4.0,Unknown
+605,ORD1605,C233,Sneha Joshi,25.0,North,Delhi,05/06/25,Fashion,T-Shirt,3,4114,10.0,12000,UPI,Returned,4.0,Instagram
+606,ORD1606,C069,Amit Singh,21.0,North, Mumbai,2026-01-30,Electronics,Laptop,1,3778,15.0,12000,Card,Delivered,2.0,Facebook
+607,ORD1607,C063,Rahul Sharma,60.0,West, Mumbai,03-09-2025,Sports,Cricket Bat,3,2406,10.0,0,UPI,Delivered,5.0,Google Ads
+609,ORD1609,C092,Priya Patel,25.0,North,Lucknow,"Feb 22,2025",Electronics,Smartphone,3,4476,15.0,0,UPI,Cancelled,2.0,Facebook
+611,ORD1611,C185,Vikram Das,25.0,East,Jaipur,07/19/25,Electronics,Laptop,3,2644,10.0,999,UPI,Delivered,2.0,Facebook
+612,ORD1612,C155,Karan Mehta ,45.0,East,Bhopal,09/04/25,Home,Mixer,3,1207,10.0,12000,Cash,Cancelled,5.0,Email
+613,ORD1613,C180,Priya Patel,25.0,North,Pune,27-09-2025,Groceries,Rice,3,5406,10.0,30000,UPI,Delivered,5.0,Email
+614,ORD1614,C076,Vikram Das,25.0,East,Pune,11-03-2026,Electronics,Laptop,1,6810,10.0,999,UPI,Delivered,3.0,Facebook
+615,ORD1615,C096,Rahul Sharma,25.0,North,Bhopal,12/23/25,Electronics,Headphones,3,5541,0.0,30000,Wallet,Delivered,1.0,Facebook
+616,ORD1616,C039,Amit Singh,31.0,West,Jaipur,01/07/25,Beauty,Face Wash,2,3423,5.0,5000,Cash,Delivered,4.0,Instagram
+617,ORD1617,C129,Amit Singh,25.0,East,Bhopal,06-11-2025,Fashion,T-Shirt,3,6487,0.0,12000,Card,Cancelled,5.0,Google Ads
+618,ORD1618,C244,Amit Singh,45.0,East,Delhi,09/25/25,Fashion,Shoes,3,1921,5.0,999,Cash,Delivered,3.0,Unknown
+619,ORD1619,C212,Sneha Joshi,21.0,South,Bhopal,12/01/25,Electronics,Headphones,10,1419,10.0,999,Card,Delivered,1.0,Instagram
+620,ORD1620,C017,Neha Gupta,21.0,South,Pune,2025-03-25,Beauty,Perfume,1,4372,20.0,12000,UPI,Delivered,2.0,Google Ads
+621,ORD1621,C081,Priya Patel ,21.0,South,Jaipur,2025-01-24,Electronics,Headphones,1,5994,0.0,5000,Wallet,Delivered,3.0,Email
+622,ORD1622,C129,Amit Singh,25.0,West,Delhi,2026-04-05,Beauty,Face Wash,2,2144,10.0,2500,UPI,Delivered,3.0,Email
+623,ORD1623,C197,Amit Singh,25.0,West,Lucknow,18-02-2026,Electronics,Headphones,2,6380,15.0,5000,UPI,Delivered,3.0,Google Ads
+624,ORD1624,C246,Amit Singh,25.0,North,Delhi,2025-11-09,Home,Chair,3,5175,15.0,999,Card,Cancelled,1.0,Email
+626,ORD1626,C220,Riya Shah,25.0,North,Bhopal,"Jan 21,2025",Sports,Football,2,585,0.0,2500,Wallet,Cancelled,3.0,Google Ads
+627,ORD1627,C159,Rahul Sharma,45.0,West,Delhi,2025-05-15,Electronics,Headphones,3,995,0.0,999,UPI,Delivered,4.0,Facebook
+628,ORD1628,C090,Vikram Das,25.0,West, Mumbai,2025-12-09,Home,Chair,4,2497,0.0,0,UPI,Delivered,4.0,Email
+629,ORD1629,C055,Vikram Das,60.0,West,Delhi,06/25/25,Fashion,Shoes,3,3687,10.0,12000,UPI,Returned,2.0,Facebook
+630,ORD1630,C122,Neha Gupta ,45.0,North,Bhopal,02/09/26,Beauty,Face Wash,3,2541,10.0,2500,Card,Delivered,1.0,Facebook
+631,ORD1631,C224,Sneha Joshi,45.0,South,Ahmedabad ,03/24/26,Electronics,Smartphone,3,7623,20.0,30000,UPI,Delivered,4.0,Google Ads
+632,ORD1632,C138,Amit Singh,25.0,South,Bhopal,09/04/25,Fashion,T-Shirt,4,2969,10.0,30000,UPI,Cancelled,5.0,Facebook
+633,ORD1633,C230,Vikram Das,25.0,South, Mumbai,08-01-2025,Electronics,Headphones,3,6782,10.0,30000,Cash,Delivered,5.0,Instagram
+634,ORD1634,C191,Neha Gupta,25.0,North,Bhopal,19-01-2025,Sports,Football,10,2619,5.0,999,Card,Delivered,2.0,Unknown
+635,ORD1635,C129,Priya Patel,25.0,West,Bhopal,"Apr 05,2026",Electronics,Smartphone,3,4246,20.0,5000,Card,Delivered,5.0,Email
+636,ORD1636,C046,Amit Singh,25.0,East,Jaipur,"Aug 08,2025",Groceries,Cooking Oil,2,5597,0.0,30000,Cash,Delivered,3.0,Unknown
+637,ORD1637,C027,Vikram Das,25.0,North,Bhopal,11/12/25,Electronics,Laptop,2,2853,0.0,12000,Wallet,Delivered,3.0,Google Ads
+638,ORD1638,C220,Vikram Das,25.0,West,Bhopal,28-02-2025,Home,Chair,4,1582,10.0,30000,Cash,Delivered,3.0,Facebook
+639,ORD1639,C173,Neha Gupta ,25.0,North,Delhi,03/06/26,Groceries,Cooking Oil,5,2452,20.0,0,UPI,Delivered,5.0,Unknown
+641,ORD1641,C162,Sneha Joshi,60.0,West,Ahmedabad ,2025-09-16,Electronics,Smartphone,4,1965,10.0,2500,UPI,Delivered,1.0,Instagram
+643,ORD1643,C240,Amit Singh,21.0,North, Mumbai,2025-05-21,Fashion,Jeans,3,2721,0.0,5000,Wallet,Delivered,1.0,Facebook
+644,ORD1644,C234,Neha Gupta,25.0,West,Delhi,"Sep 11,2025",Fashion,Shoes,3,3644,5.0,5000,UPI,Returned,3.0,Instagram
+646,ORD1646,C238,Priya Patel,21.0,West,Delhi,"Mar 23,2025",Beauty,Perfume,10,5555,0.0,12000,Wallet,Delivered,2.0,Google Ads
+647,ORD1647,C187,Amit Singh,60.0,West,Pune,2025-04-23,Electronics,Laptop,1,3089,10.0,0,Card,Cancelled,3.0,Google Ads
+648,ORD1648,C065,Amit Singh ,60.0,East, Mumbai,18-04-2026,Sports,Cricket Bat,3,734,10.0,12000,Wallet,Delivered,2.0,Facebook
+649,ORD1649,C160,Priya Patel,25.0,East,Pune,"Feb 22,2026",Sports,Cricket Bat,10,2587,20.0,12000,Card,Delivered,3.0,Instagram
+650,ORD1650,C076,Karan Mehta,21.0,North,Ahmedabad ,10/28/25,Sports,Football,1,1962,20.0,30000,Card,Returned,2.0,Google Ads
+651,ORD1651,C032,Rahul Sharma,21.0,South,Pune,"Mar 16,2025",Fashion,T-Shirt,4,3962,10.0,5000,Wallet,Delivered,2.0,Unknown
+652,ORD1652,C027,Riya Shah,25.0,East,Bhopal,27-09-2025,Electronics,Smartphone,5,2207,15.0,2500,Card,Delivered,2.0,Instagram
+653,ORD1653,C116,Amit Singh,25.0,East,Pune,2025-03-03,Sports,Cricket Bat,1,3548,10.0,12000,UPI,Delivered,1.0,Unknown
+655,ORD1655,C101,Riya Shah,25.0,West, Mumbai,2025-11-10,Home,Chair,3,2928,0.0,30000,Card,Cancelled,1.0,Instagram
+657,ORD1657,Unknown,Riya Shah ,31.0,North,Bhopal,12/19/25,Electronics,Smartphone,2,4420,10.0,0,UPI,Delivered,2.0,Unknown
+658,ORD1658,C170,Vikram Das,25.0,West,Pune,10/23/25,Home,Mixer,2,7091,15.0,0,Card,Delivered,3.0,Instagram
+659,ORD1659,C016,Neha Gupta,45.0,West,Bhopal,05/13/26,Beauty,Face Wash,4,6457,5.0,999,Cash,Delivered,3.0,Facebook
+660,ORD1660,C235,Amit Singh,25.0,East,Bhopal,2026-03-11,Groceries,Cooking Oil,5,4003,10.0,30000,Wallet,Cancelled,2.0,Email
+661,ORD1661,C244,Priya Patel,25.0,North, Mumbai,"Dec 18,2025",Fashion,T-Shirt,5,910,10.0,999,UPI,Returned,2.0,Google Ads
+662,ORD1662,C238,Priya Patel,25.0,North,Ahmedabad ,2025-05-16,Electronics,Smartphone,3,2016,10.0,5000,Wallet,Returned,5.0,Google Ads
+663,ORD1663,C188,Sneha Joshi,60.0,North,Bhopal,01/26/25,Electronics,Smartphone,5,318,5.0,999,Wallet,Delivered,5.0,Unknown
+664,ORD1664,C057,Priya Patel,21.0,South,Pune,2026-05-06,Sports,Cricket Bat,2,4877,15.0,0,Wallet,Delivered,3.0,Facebook
+666,ORD1666,C219,Neha Gupta ,25.0,North,Ahmedabad ,"Jan 14,2026",Electronics,Laptop,3,2102,0.0,999,Card,Returned,2.0,Instagram
+667,ORD1667,C226,Priya Patel,21.0,South,Bhopal,"May 14,2026",Sports,Cricket Bat,3,4226,10.0,12000,UPI,Returned,2.0,Email
+668,ORD1668,C135,Amit Singh,25.0,North,Jaipur,04-03-2026,Electronics,Laptop,1,6081,20.0,30000,Card,Returned,4.0,Google Ads
+669,ORD1669,C212,Karan Mehta,25.0,West,Bhopal,2025-08-23,Groceries,Cooking Oil,10,3061,10.0,0,Card,Cancelled,3.0,Instagram
+670,ORD1670,C063,Sneha Joshi,45.0,North,Pune,2025-09-12,Electronics,Smartphone,4,7044,10.0,5000,UPI,Delivered,3.0,Unknown
+671,ORD1671,C242,Riya Shah,45.0,North,Lucknow,07/20/25,Sports,Football,5,7414,10.0,30000,Wallet,Delivered,4.0,Email
+672,ORD1672,C120,Amit Singh,60.0,West,Ahmedabad ,20-04-2026,Beauty,Perfume,2,1042,0.0,2500,Cash,Delivered,1.0,Google Ads
+674,ORD1674,C183,Riya Shah,45.0,East, Mumbai,2026-05-04,Beauty,Perfume,3,5199,10.0,2500,UPI,Delivered,4.0,Google Ads
+676,ORD1676,C022,Riya Shah,25.0,West,Ahmedabad ,"Jun 04,2025",Fashion,T-Shirt,3,1634,15.0,5000,Cash,Delivered,2.0,Unknown
+677,ORD1677,C120,Sneha Joshi,25.0,North,Delhi,07/01/25,Sports,Cricket Bat,3,5574,0.0,30000,Cash,Delivered,2.0,Unknown
+678,ORD1678,C014,Sneha Joshi,25.0,North,Bhopal,"Nov 14,2025",Fashion,T-Shirt,3,831,10.0,30000,Wallet,Returned,1.0,Instagram
+680,ORD1680,C230,Amit Singh,60.0,North,Bhopal,11-03-2025,Fashion,Jeans,3,2296,0.0,12000,UPI,Delivered,1.0,Instagram
+681,ORD1681,C027,Vikram Das,25.0,West,Bhopal,07-05-2025,Electronics,Headphones,2,7354,5.0,0,UPI,Delivered,4.0,Email
+682,ORD1682,C111,Amit Singh,21.0,North,Ahmedabad ,2026-03-16,Electronics,Laptop,3,6554,0.0,30000,UPI,Delivered,5.0,Unknown
+684,ORD1684,C003,Riya Shah ,25.0,North,Lucknow,10/16/25,Electronics,Laptop,5,1275,5.0,999,Cash,Returned,3.0,Instagram
+685,ORD1685,C132,Priya Patel,31.0,South,Lucknow,06/28/25,Electronics,Smartphone,3,1117,15.0,5000,UPI,Delivered,3.0,Google Ads
+686,ORD1686,C148,Riya Shah,25.0,South,Bhopal,07-11-2025,Home,Chair,10,4621,0.0,0,UPI,Delivered,3.0,Facebook
+687,ORD1687,C198,Neha Gupta,31.0,East,Bhopal,15-06-2025,Fashion,T-Shirt,2,312,0.0,0,UPI,Cancelled,3.0,Instagram
+688,ORD1688,C237,Amit Singh,25.0,West,Bhopal,2025-11-07,Electronics,Headphones,2,5678,10.0,999,Wallet,Cancelled,2.0,Facebook
+689,ORD1689,C112,Neha Gupta,21.0,North,Pune,14-04-2025,Fashion,Shoes,10,6922,15.0,0,UPI,Delivered,3.0,Email
+690,ORD1690,C147,Vikram Das,25.0,South,Ahmedabad ,08-04-2025,Groceries,Rice,3,4729,0.0,30000,UPI,Returned,4.0,Email
+691,ORD1691,C128,Neha Gupta,25.0,South,Delhi,2025-02-21,Electronics,Headphones,2,7068,20.0,999,Card,Delivered,4.0,Google Ads
+693,ORD1693,C237,Rahul Sharma ,25.0,North,Delhi,"Apr 15,2025",Fashion,T-Shirt,3,6549,10.0,2500,UPI,Returned,5.0,Unknown
+694,ORD1694,C027,Rahul Sharma,25.0,North,Lucknow,2026-01-06,Electronics,Headphones,10,6778,20.0,5000,Cash,Delivered,2.0,Instagram
+695,ORD1695,C142,Vikram Das,25.0,East,Ahmedabad ,2025-12-16,Electronics,Laptop,4,3378,10.0,5000,Cash,Cancelled,2.0,Instagram
+696,ORD1696,C236,Rahul Sharma,45.0,North,Delhi,06/25/25,Sports,Football,3,2827,15.0,999,Cash,Cancelled,5.0,Instagram
+697,ORD1697,C113,Amit Singh,21.0,South,Lucknow,30-01-2025,Electronics,Headphones,4,649,5.0,12000,UPI,Delivered,2.0,Unknown
+698,ORD1698,C127,Karan Mehta,25.0,South,Lucknow,09-05-2025,Home,Mixer,2,2871,5.0,30000,Wallet,Delivered,3.0,Facebook
+699,ORD1699,C231,Sneha Joshi,25.0,South, Mumbai,"Jan 28,2025",Groceries,Cooking Oil,3,4031,5.0,999,UPI,Cancelled,2.0,Google Ads
+700,ORD1700,C179,Vikram Das,25.0,North,Delhi,19-01-2025,Groceries,Rice,2,2522,10.0,5000,UPI,Delivered,3.0,Unknown
+701,ORD1701,C127,Rahul Sharma,25.0,West,Delhi,03/14/26,Home,Mixer,2,3415,20.0,999,UPI,Returned,2.0,Email
+703,ORD1703,C042,Sneha Joshi,45.0,North,Delhi,"Aug 06,2025",Electronics,Headphones,3,3886,0.0,2500,Card,Delivered,2.0,Unknown
+704,ORD1704,C169,Riya Shah,21.0,North,Jaipur,"Jul 05,2025",Fashion,Shoes,3,4451,20.0,12000,Card,Delivered,2.0,Email
+705,ORD1705,C123,Neha Gupta,21.0,North,Jaipur,"Jan 19,2025",Sports,Football,10,5202,0.0,12000,Wallet,Delivered,1.0,Email
+707,ORD1707,C250,Riya Shah,25.0,West,Delhi,"Feb 01,2025",Sports,Cricket Bat,1,2048,15.0,12000,UPI,Delivered,1.0,Instagram
+708,ORD1708,C084,Karan Mehta,25.0,North,Bhopal,02-05-2025,Groceries,Cooking Oil,2,4264,5.0,2500,UPI,Delivered,3.0,Unknown
+709,ORD1709,C160,Rahul Sharma,25.0,North,Jaipur,"Apr 28,2026",Beauty,Perfume,3,605,0.0,999,Wallet,Delivered,1.0,Unknown
+710,ORD1710,C097,Rahul Sharma,31.0,East, Mumbai,27-04-2026,Fashion,Shoes,3,7463,10.0,0,UPI,Cancelled,5.0,Unknown
+711,ORD1711,C169,Vikram Das ,60.0,North,Jaipur,11/07/25,Groceries,Cooking Oil,3,3859,0.0,999,Card,Delivered,3.0,Facebook
+712,ORD1712,C093,Priya Patel,25.0,West, Mumbai,01/11/26,Sports,Cricket Bat,2,2979,0.0,2500,Cash,Cancelled,2.0,Email
+713,ORD1713,C173,Amit Singh,60.0,South,Lucknow,02/02/26,Home,Chair,3,1267,15.0,2500,UPI,Delivered,4.0,Email
+716,ORD1716,C234,Sneha Joshi,25.0,East,Jaipur,05/02/26,Electronics,Headphones,1,1666,10.0,30000,Cash,Delivered,3.0,Facebook
+717,ORD1717,C098,Karan Mehta,31.0,West,Jaipur,12/12/25,Groceries,Rice,3,6055,10.0,30000,UPI,Delivered,3.0,Email
+718,ORD1718,C099,Karan Mehta,31.0,North,Pune,"May 27,2025",Beauty,Face Wash,3,7740,10.0,5000,Wallet,Delivered,5.0,Unknown
+719,ORD1719,C071,Vikram Das,45.0,North,Jaipur,"Mar 02,2025",Beauty,Face Wash,3,1118,10.0,2500,Wallet,Delivered,2.0,Google Ads
+720,ORD1720,C246,Neha Gupta ,25.0,North,Lucknow,2025-01-15,Electronics,Laptop,4,1081,10.0,999,Card,Cancelled,4.0,Email
+721,ORD1721,C114,Sneha Joshi,60.0,North,Ahmedabad ,2026-01-02,Groceries,Rice,10,3561,5.0,2500,UPI,Delivered,1.0,Facebook
+722,ORD1722,C162,Priya Patel,25.0,North,Bhopal,05/22/25,Electronics,Smartphone,3,4267,10.0,0,Wallet,Delivered,2.0,Unknown
+723,ORD1723,C224,Neha Gupta,45.0,South,Bhopal,10/28/25,Electronics,Headphones,1,715,10.0,999,Cash,Delivered,3.0,Email
+724,ORD1724,C018,Vikram Das,45.0,North,Delhi,01/02/25,Fashion,T-Shirt,4,3961,15.0,5000,Card,Cancelled,4.0,Unknown
+725,ORD1725,C216,Neha Gupta,25.0,West,Bhopal,"Mar 26,2026",Fashion,Jeans,3,7919,10.0,12000,Card,Cancelled,4.0,Google Ads
+726,ORD1726,C084,Neha Gupta,25.0,North,Ahmedabad ,05/12/26,Electronics,Laptop,2,2979,10.0,5000,Card,Delivered,3.0,Email
+727,ORD1727,C008,Riya Shah,25.0,North,Bhopal,18-12-2025,Electronics,Smartphone,10,5037,10.0,0,Wallet,Delivered,3.0,Google Ads
+728,ORD1728,C069,Vikram Das,45.0,South,Delhi,2025-05-14,Home,Mixer,10,3043,10.0,2500,Cash,Returned,2.0,Unknown
+729,ORD1729,C244,Rahul Sharma ,25.0,South,Lucknow,2025-03-08,Electronics,Headphones,4,6287,10.0,30000,Wallet,Delivered,3.0,Instagram
+730,ORD1730,Unknown,Neha Gupta,31.0,South,Lucknow,03/22/25,Groceries,Rice,3,2209,15.0,5000,UPI,Cancelled,3.0,Facebook
+731,ORD1731,C203,Vikram Das,31.0,South,Jaipur,09/14/25,Electronics,Laptop,1,6083,5.0,0,UPI,Delivered,1.0,Google Ads
+734,ORD1734,C233,Neha Gupta,21.0,West,Bhopal,"Sep 05,2025",Home,Chair,4,1331,20.0,2500,Wallet,Delivered,4.0,Facebook
+735,ORD1735,C165,Riya Shah,31.0,North, Mumbai,2025-09-02,Electronics,Smartphone,4,1945,10.0,12000,UPI,Delivered,4.0,Unknown
+736,ORD1736,C016,Vikram Das,25.0,South,Lucknow,25-09-2025,Fashion,T-Shirt,3,3195,0.0,30000,UPI,Delivered,3.0,Unknown
+737,ORD1737,C081,Neha Gupta,25.0,West, Mumbai,10/07/25,Home,Chair,5,6242,0.0,0,Cash,Delivered,4.0,Facebook
+739,ORD1739,C185,Riya Shah,25.0,South,Ahmedabad ,"Aug 11,2025",Home,Mixer,1,932,5.0,999,Card,Cancelled,3.0,Facebook
+740,ORD1740,C238,Amit Singh,25.0,West,Delhi,"Apr 25,2026",Beauty,Perfume,10,7642,15.0,2500,Cash,Delivered,2.0,Email
+741,ORD1741,C138,Vikram Das,25.0,North,Bhopal,2025-12-22,Electronics,Laptop,5,4086,15.0,12000,UPI,Delivered,3.0,Unknown
+742,ORD1742,C150,Riya Shah,25.0,South,Pune,05/26/25,Fashion,Shoes,1,3393,20.0,0,Wallet,Delivered,1.0,Facebook
+743,ORD1743,C085,Riya Shah,25.0,North,Ahmedabad ,03/06/25,Fashion,T-Shirt,5,4836,5.0,0,UPI,Delivered,1.0,Unknown
+745,ORD1745,C181,Vikram Das,60.0,West,Lucknow,02/01/26,Electronics,Laptop,3,7946,10.0,12000,UPI,Cancelled,2.0,Facebook
+746,ORD1746,C176,Priya Patel,25.0,South,Ahmedabad ,"Sep 08,2025",Fashion,Jeans,3,578,0.0,0,Card,Returned,3.0,Google Ads
+747,ORD1747,C239,Rahul Sharma ,25.0,South,Pune,11-07-2025,Home,Chair,3,5568,10.0,0,Wallet,Delivered,3.0,Instagram
+749,ORD1749,C008,Amit Singh,31.0,North, Mumbai,"Jan 20,2025",Sports,Cricket Bat,3,2172,5.0,5000,UPI,Delivered,4.0,Instagram
+751,ORD1751,C114,Rahul Sharma,45.0,West,Bhopal,12-02-2025,Electronics,Laptop,3,6366,20.0,999,UPI,Delivered,3.0,Unknown
+752,ORD1752,C023,Priya Patel,31.0,North,Ahmedabad ,10/17/25,Beauty,Face Wash,3,5503,5.0,2500,Wallet,Delivered,2.0,Instagram
+753,ORD1753,C079,Neha Gupta,31.0,South,Delhi,26-03-2026,Fashion,Jeans,3,6322,5.0,5000,Card,Delivered,3.0,Facebook
+754,ORD1754,C046,Riya Shah,25.0,South, Mumbai,29-03-2026,Beauty,Perfume,4,1866,20.0,5000,Card,Cancelled,3.0,Google Ads
+756,ORD1756,C009,Priya Patel ,31.0,West,Ahmedabad ,"Aug 28,2025",Electronics,Headphones,4,846,15.0,5000,Wallet,Delivered,3.0,Unknown
+757,ORD1757,C041,Sneha Joshi,25.0,South, Mumbai,2026-03-22,Home,Chair,3,6873,10.0,999,Card,Delivered,2.0,Email
+758,ORD1758,C188,Sneha Joshi,45.0,South,Lucknow,10/31/25,Groceries,Rice,1,828,0.0,12000,Card,Returned,3.0,Email
+759,ORD1759,C199,Riya Shah,25.0,North,Ahmedabad ,08/04/25,Fashion,T-Shirt,4,2754,5.0,12000,UPI,Delivered,5.0,Unknown
+760,ORD1760,C249,Priya Patel,31.0,South,Bhopal,2026-02-08,Fashion,Jeans,3,5049,10.0,5000,UPI,Returned,1.0,Facebook
+762,ORD1762,C234,Vikram Das,25.0,West,Pune,24-12-2025,Electronics,Smartphone,2,6366,10.0,30000,UPI,Returned,2.0,Google Ads
+763,ORD1763,C137,Priya Patel,25.0,North,Pune,11/02/25,Electronics,Smartphone,3,5278,10.0,12000,UPI,Delivered,3.0,Google Ads
+764,ORD1764,C049,Rahul Sharma,60.0,East, Mumbai,03/12/25,Beauty,Face Wash,3,3853,15.0,2500,Cash,Delivered,4.0,Facebook
+765,ORD1765,C046,Amit Singh ,25.0,North,Bhopal,05/14/25,Fashion,Shoes,3,4360,0.0,30000,UPI,Delivered,3.0,Instagram
+766,ORD1766,C176,Vikram Das,25.0,East,Bhopal,10/22/25,Home,Chair,3,3620,10.0,30000,UPI,Delivered,4.0,Google Ads
+767,ORD1767,C183,Karan Mehta,25.0,North,Ahmedabad ,02/04/26,Electronics,Headphones,10,2164,10.0,5000,Wallet,Returned,3.0,Instagram
+768,ORD1768,C112,Rahul Sharma,60.0,North, Mumbai,04/12/25,Electronics,Laptop,3,6866,20.0,30000,Cash,Returned,3.0,Instagram
+769,ORD1769,C139,Riya Shah,60.0,South,Bhopal,2026-01-28,Beauty,Perfume,3,4319,20.0,0,Cash,Delivered,3.0,Instagram
+770,ORD1770,C022,Priya Patel,31.0,West,Bhopal,08-05-2025,Electronics,Smartphone,1,2151,10.0,2500,Card,Returned,3.0,Unknown
+771,ORD1771,C084,Karan Mehta,31.0,North,Bhopal,2025-01-21,Fashion,Jeans,3,3761,0.0,12000,UPI,Delivered,3.0,Google Ads
+772,ORD1772,C215,Sneha Joshi,45.0,South,Jaipur,2026-01-05,Home,Mixer,1,2233,20.0,12000,Wallet,Cancelled,2.0,Instagram
+773,ORD1773,C071,Rahul Sharma,25.0,North,Jaipur,18-01-2026,Beauty,Perfume,4,3048,20.0,2500,UPI,Returned,2.0,Instagram
+774,ORD1774,C025,Neha Gupta ,21.0,South,Pune,"Nov 03,2025",Home,Chair,5,339,0.0,0,Wallet,Delivered,3.0,Unknown
+775,ORD1775,C088,Karan Mehta,25.0,West,Ahmedabad ,2025-09-01,Sports,Cricket Bat,3,1296,10.0,5000,Cash,Delivered,5.0,Facebook
+776,ORD1776,C144,Karan Mehta,45.0,West,Lucknow,11/20/25,Home,Mixer,3,3666,5.0,2500,Card,Delivered,4.0,Email
+777,ORD1777,C107,Rahul Sharma,25.0,West,Pune,10/17/25,Electronics,Laptop,3,492,10.0,5000,Wallet,Delivered,4.0,Unknown
+778,ORD1778,C046,Amit Singh,25.0,West,Bhopal,"Feb 26,2025",Electronics,Laptop,3,7425,15.0,2500,UPI,Returned,5.0,Google Ads
+779,ORD1779,C127,Vikram Das,25.0,North,Ahmedabad ,04/26/25,Beauty,Perfume,2,2230,10.0,5000,Card,Delivered,5.0,Google Ads
+780,ORD1780,C106,Neha Gupta,21.0,North,Ahmedabad ,05/14/26,Sports,Football,2,1373,10.0,12000,Wallet,Cancelled,1.0,Unknown
+781,ORD1781,C176,Priya Patel,21.0,East,Pune,03/27/25,Home,Chair,3,6226,15.0,30000,UPI,Returned,3.0,Facebook
+783,ORD1783,C002,Rahul Sharma ,25.0,West,Bhopal,2025-08-25,Sports,Football,3,880,15.0,30000,Cash,Delivered,4.0,Google Ads
+785,ORD1785,C094,Sneha Joshi,25.0,North,Pune,05-01-2026,Electronics,Laptop,5,310,5.0,30000,Cash,Delivered,3.0,Instagram
+788,ORD1788,C220,Sneha Joshi,45.0,North,Pune,"Mar 17,2025",Sports,Cricket Bat,5,540,10.0,12000,Card,Delivered,5.0,Instagram
+789,ORD1789,C249,Karan Mehta,31.0,West,Lucknow,02-09-2025,Fashion,Shoes,3,7343,10.0,12000,Card,Returned,4.0,Facebook
+790,ORD1790,C088,Neha Gupta,45.0,North,Ahmedabad ,2025-01-08,Groceries,Cooking Oil,3,2230,10.0,2500,Wallet,Delivered,3.0,Facebook
+791,ORD1791,C190,Neha Gupta,21.0,East, Mumbai,07-03-2026,Beauty,Perfume,10,4932,0.0,2500,Wallet,Delivered,3.0,Unknown
+792,ORD1792,C205,Amit Singh ,45.0,North,Bhopal,"May 06,2025",Groceries,Rice,1,7172,15.0,999,UPI,Cancelled,3.0,Unknown
+793,ORD1793,C016,Neha Gupta,45.0,West,Bhopal,"Sep 25,2025",Fashion,T-Shirt,4,6936,10.0,0,Wallet,Delivered,3.0,Instagram
+794,ORD1794,C026,Neha Gupta,25.0,South,Delhi,01-09-2025,Fashion,Shoes,2,7158,5.0,12000,Cash,Delivered,3.0,Email
+795,ORD1795,C154,Riya Shah,31.0,South,Bhopal,01/22/26,Fashion,Jeans,10,5550,20.0,12000,Card,Delivered,3.0,Unknown
+796,ORD1796,C029,Amit Singh,21.0,South,Bhopal,11/17/25,Fashion,Shoes,5,4503,20.0,5000,UPI,Delivered,1.0,Email
+797,ORD1797,C196,Neha Gupta,60.0,West,Jaipur,2025-04-10,Fashion,T-Shirt,10,6757,10.0,2500,Wallet,Returned,1.0,Google Ads
+799,ORD1799,C086,Karan Mehta,25.0,West,Jaipur,"Mar 16,2025",Fashion,Shoes,10,861,10.0,5000,Wallet,Returned,4.0,Instagram
+800,ORD1800,C197,Riya Shah,45.0,North,Jaipur,05/15/26,Home,Chair,3,2011,10.0,2500,Card,Delivered,3.0,Email
+801,ORD1801,C159,Vikram Das ,25.0,North,Pune,13-02-2026,Home,Mixer,3,3889,15.0,999,Card,Returned,3.0,Unknown
+802,ORD1802,C016,Priya Patel,25.0,South,Lucknow,05/24/25,Sports,Football,3,3035,15.0,5000,Card,Delivered,4.0,Facebook
+803,ORD1803,Unknown,Neha Gupta,25.0,West,Pune,"Oct 29,2025",Electronics,Smartphone,3,6457,10.0,2500,Wallet,Cancelled,3.0,Google Ads
+804,ORD1804,C246,Karan Mehta,45.0,North,Lucknow,"Mar 22,2026",Groceries,Cooking Oil,1,663,5.0,5000,UPI,Returned,3.0,Google Ads
+805,ORD1805,C165,Sneha Joshi,25.0,West,Delhi,2025-03-13,Fashion,Jeans,5,6659,0.0,30000,Wallet,Delivered,5.0,Google Ads
+806,ORD1806,C073,Karan Mehta,25.0,North, Mumbai,02/09/26,Electronics,Headphones,3,5485,10.0,12000,UPI,Cancelled,2.0,Unknown
+808,ORD1808,C002,Sneha Joshi,21.0,North,Lucknow,"Jul 25,2025",Beauty,Perfume,3,6964,0.0,5000,UPI,Delivered,2.0,Unknown
+809,ORD1809,C049,Amit Singh,60.0,North, Mumbai,03-04-2026,Beauty,Perfume,4,3093,10.0,0,Wallet,Cancelled,1.0,Facebook
+810,ORD1810,C169,Neha Gupta ,60.0,North,Bhopal,21-04-2026,Groceries,Cooking Oil,2,4222,10.0,2500,UPI,Delivered,3.0,Instagram
+811,ORD1811,C098,Rahul Sharma,25.0,East,Pune,16-08-2025,Electronics,Smartphone,2,4342,0.0,999,Cash,Cancelled,1.0,Instagram
+812,ORD1812,C031,Vikram Das,25.0,South,Bhopal,23-01-2026,Electronics,Headphones,3,6680,10.0,999,UPI,Delivered,5.0,Google Ads
+813,ORD1813,C098,Sneha Joshi,25.0,South,Lucknow,2025-01-09,Sports,Cricket Bat,3,5361,0.0,2500,UPI,Returned,3.0,Google Ads
+814,ORD1814,C187,Karan Mehta,31.0,North,Ahmedabad ,"Jan 09,2025",Fashion,Jeans,2,4594,0.0,12000,UPI,Delivered,5.0,Facebook
+815,ORD1815,C222,Riya Shah,25.0,North,Bhopal,02-11-2025,Electronics,Headphones,10,1009,0.0,999,UPI,Cancelled,2.0,Facebook
+816,ORD1816,C104,Karan Mehta,25.0,North,Delhi,"Apr 15,2025",Beauty,Face Wash,3,6952,0.0,2500,UPI,Returned,1.0,Facebook
+817,ORD1817,C004,Karan Mehta,25.0,East, Mumbai,2025-03-22,Home,Chair,3,3085,10.0,0,Cash,Returned,4.0,Unknown
+818,ORD1818,C033,Karan Mehta,25.0,South, Mumbai,"Aug 29,2025",Sports,Football,1,2988,0.0,5000,Cash,Cancelled,2.0,Facebook
+819,ORD1819,C191,Priya Patel ,25.0,South, Mumbai,2025-12-04,Fashion,Jeans,3,5280,15.0,999,UPI,Delivered,2.0,Google Ads
+821,ORD1821,C003,Vikram Das,25.0,North,Bhopal,"Jul 23,2025",Electronics,Headphones,1,6609,10.0,5000,UPI,Returned,5.0,Google Ads
+823,ORD1823,C250,Vikram Das,25.0,West,Jaipur,18-02-2025,Beauty,Perfume,1,5038,10.0,999,Card,Delivered,4.0,Email
+824,ORD1824,C037,Neha Gupta,45.0,South,Ahmedabad ,24-02-2026,Groceries,Rice,3,4768,10.0,12000,Wallet,Cancelled,1.0,Unknown
+825,ORD1825,C175,Amit Singh,45.0,North,Bhopal,2025-03-23,Beauty,Face Wash,3,6691,10.0,30000,UPI,Delivered,1.0,Email
+826,ORD1826,C035,Riya Shah,25.0,South,Jaipur,"Aug 28,2025",Fashion,Shoes,3,2216,0.0,999,Wallet,Cancelled,1.0,Instagram
+827,ORD1827,C101,Amit Singh,25.0,East,Pune,27-01-2026,Home,Chair,3,2340,10.0,999,Card,Delivered,2.0,Google Ads
+828,ORD1828,C037,Riya Shah ,21.0,North,Jaipur,04/16/25,Electronics,Smartphone,2,458,10.0,12000,UPI,Cancelled,4.0,Facebook
+829,ORD1829,C226,Karan Mehta,21.0,East,Jaipur,2025-03-20,Sports,Cricket Bat,2,3738,0.0,0,Cash,Returned,5.0,Facebook
+831,ORD1831,C092,Priya Patel,25.0,West,Pune,"Dec 08,2025",Fashion,Jeans,3,1014,10.0,12000,Cash,Delivered,5.0,Email
+832,ORD1832,C011,Priya Patel,25.0,North, Mumbai,11/07/25,Fashion,T-Shirt,10,7217,10.0,30000,UPI,Delivered,5.0,Unknown
+833,ORD1833,C147,Rahul Sharma,25.0,North,Pune,03/13/26,Home,Mixer,1,1922,0.0,12000,UPI,Delivered,3.0,Google Ads
+834,ORD1834,C092,Karan Mehta,45.0,South,Bhopal,"Mar 11,2026",Electronics,Smartphone,3,4955,0.0,30000,UPI,Delivered,4.0,Google Ads
+835,ORD1835,C193,Karan Mehta,25.0,North,Lucknow,01/15/26,Electronics,Laptop,3,1479,10.0,2500,Wallet,Cancelled,3.0,Facebook
+836,ORD1836,C164,Amit Singh,45.0,South,Bhopal,06/10/25,Beauty,Perfume,2,5907,10.0,2500,Card,Returned,3.0,Facebook
+837,ORD1837,C233,Riya Shah ,25.0,North,Bhopal,"Oct 25,2025",Electronics,Smartphone,1,1777,15.0,12000,UPI,Delivered,1.0,Instagram
+838,ORD1838,C236,Sneha Joshi,60.0,North,Lucknow,23-07-2025,Home,Mixer,3,4661,10.0,999,Cash,Delivered,2.0,Unknown
+839,ORD1839,C063,Neha Gupta,45.0,North,Delhi,25-04-2025,Electronics,Headphones,5,6569,0.0,2500,UPI,Delivered,5.0,Email
+840,ORD1840,C218,Sneha Joshi,25.0,South,Lucknow,31-07-2025,Sports,Cricket Bat,3,661,15.0,30000,Card,Returned,3.0,Google Ads
+841,ORD1841,C083,Neha Gupta,31.0,North,Bhopal,06-05-2026,Fashion,Shoes,3,2526,5.0,12000,Card,Delivered,5.0,Facebook
+842,ORD1842,C128,Sneha Joshi,31.0,North,Bhopal,08/24/25,Beauty,Face Wash,10,4279,0.0,12000,UPI,Delivered,4.0,Facebook
+843,ORD1843,C243,Rahul Sharma,25.0,East,Ahmedabad ,"Oct 19,2025",Electronics,Headphones,3,6988,20.0,5000,UPI,Returned,3.0,Unknown
+844,ORD1844,C221,Rahul Sharma,21.0,South, Mumbai,"Mar 15,2025",Fashion,Shoes,4,6993,10.0,30000,UPI,Cancelled,1.0,Unknown
+845,ORD1845,C008,Vikram Das,25.0,South, Mumbai,04-03-2026,Home,Chair,4,6104,10.0,0,Cash,Cancelled,3.0,Email
+846,ORD1846,C080,Karan Mehta ,25.0,South,Bhopal,2025-04-04,Home,Mixer,10,4014,10.0,0,UPI,Delivered,4.0,Facebook
+848,ORD1848,C205,Karan Mehta,31.0,North,Bhopal,2025-06-06,Groceries,Rice,1,1978,10.0,999,Wallet,Delivered,3.0,Instagram
+849,ORD1849,C181,Amit Singh,31.0,West,Delhi,04/02/26,Electronics,Headphones,3,7305,10.0,12000,UPI,Cancelled,1.0,Google Ads
+851,ORD1851,C246,Vikram Das,25.0,North,Lucknow,14-03-2025,Groceries,Rice,3,3190,10.0,0,Cash,Cancelled,1.0,Unknown
+853,ORD1853,C157,Sneha Joshi,25.0,South,Delhi,06/14/25,Electronics,Smartphone,1,2670,5.0,12000,UPI,Delivered,1.0,Google Ads
+855,ORD1855,C229,Neha Gupta ,25.0,North,Pune,02-05-2026,Beauty,Face Wash,4,2923,0.0,5000,UPI,Cancelled,3.0,Unknown
+856,ORD1856,C002,Neha Gupta,25.0,North,Bhopal,"Apr 19,2026",Electronics,Laptop,3,6936,5.0,30000,UPI,Delivered,4.0,Instagram
+857,ORD1857,C175,Riya Shah,60.0,East,Delhi,03/28/26,Electronics,Laptop,4,6106,20.0,5000,Cash,Returned,3.0,Facebook
+858,ORD1858,C033,Neha Gupta,25.0,North,Ahmedabad ,12/23/25,Sports,Cricket Bat,1,2952,0.0,30000,Cash,Delivered,2.0,Unknown
+859,ORD1859,C073,Riya Shah,25.0,East,Pune,"Oct 02,2025",Beauty,Face Wash,5,7436,20.0,0,Wallet,Returned,2.0,Facebook
+860,ORD1860,C010,Sneha Joshi,25.0,North,Pune,27-02-2025,Groceries,Rice,10,3210,5.0,5000,Wallet,Delivered,4.0,Facebook
+861,ORD1861,C012,Rahul Sharma,25.0,South,Ahmedabad ,"Jan 07,2026",Sports,Football,3,717,15.0,2500,Cash,Delivered,3.0,Instagram
+862,ORD1862,C161,Neha Gupta,25.0,North,Bhopal,26-04-2025,Home,Mixer,3,1736,5.0,0,UPI,Cancelled,5.0,Google Ads
+863,ORD1863,C176,Priya Patel,25.0,West,Delhi,2025-01-30,Groceries,Rice,3,7540,10.0,12000,UPI,Delivered,3.0,Instagram
+864,ORD1864,C209,Sneha Joshi ,25.0,North,Delhi,2025-01-02,Electronics,Laptop,4,6002,10.0,12000,Wallet,Delivered,1.0,Email
+865,ORD1865,C157,Riya Shah,25.0,West,Ahmedabad ,12/16/25,Home,Mixer,3,4568,15.0,5000,Wallet,Delivered,2.0,Facebook
+866,ORD1866,C095,Rahul Sharma,60.0,North,Delhi,28-03-2026,Fashion,Jeans,3,6859,20.0,5000,Cash,Cancelled,2.0,Email
+867,ORD1867,C118,Vikram Das,25.0,West,Lucknow,08/04/25,Electronics,Headphones,3,3075,10.0,2500,Card,Returned,2.0,Unknown
+868,ORD1868,C231,Vikram Das,25.0,South,Jaipur,"May 01,2026",Fashion,T-Shirt,4,4899,15.0,999,Cash,Delivered,4.0,Instagram
+869,ORD1869,C056,Karan Mehta,31.0,East,Bhopal,27-01-2025,Groceries,Cooking Oil,5,7808,10.0,999,Cash,Delivered,3.0,Facebook
+870,ORD1870,C148,Neha Gupta,25.0,South,Bhopal,11/25/25,Home,Chair,5,3492,10.0,999,UPI,Returned,3.0,Unknown
+871,ORD1871,C236,Rahul Sharma,25.0,South,Lucknow,2025-01-11,Groceries,Rice,2,5314,5.0,999,UPI,Delivered,3.0,Instagram
+872,ORD1872,C075,Riya Shah,25.0,North,Ahmedabad ,27-12-2025,Beauty,Perfume,10,5565,10.0,999,Cash,Delivered,5.0,Unknown
+873,ORD1873,C177,Neha Gupta ,31.0,West, Mumbai,"Dec 25,2025",Home,Chair,3,4374,0.0,30000,UPI,Delivered,4.0,Email
+874,ORD1874,C150,Amit Singh,21.0,West,Lucknow,04/22/26,Home,Mixer,3,6690,10.0,2500,UPI,Delivered,1.0,Facebook
+875,ORD1875,C247,Karan Mehta,25.0,South,Bhopal,26-02-2025,Electronics,Headphones,5,6485,10.0,0,Wallet,Cancelled,4.0,Facebook
+877,ORD1877,C034,Rahul Sharma,21.0,South,Bhopal,2025-06-20,Beauty,Face Wash,5,7040,5.0,999,Cash,Returned,4.0,Instagram
+878,ORD1878,C105,Karan Mehta,25.0,South,Pune,02/16/26,Fashion,Jeans,3,776,10.0,5000,Card,Delivered,1.0,Email
+879,ORD1879,C207,Priya Patel,25.0,North,Lucknow,12-01-2025,Electronics,Headphones,3,1013,5.0,0,UPI,Cancelled,2.0,Instagram
+882,ORD1882,C130,Rahul Sharma ,31.0,North,Jaipur,15-08-2025,Sports,Football,10,2574,0.0,999,Wallet,Cancelled,2.0,Instagram
+883,ORD1883,C163,Riya Shah,25.0,West,Jaipur,03/25/25,Electronics,Laptop,3,7441,15.0,999,Cash,Delivered,3.0,Facebook
+885,ORD1885,C116,Karan Mehta,25.0,South,Bhopal,"Jan 08,2026",Beauty,Perfume,2,5097,20.0,2500,Cash,Delivered,5.0,Facebook
+886,ORD1886,C226,Vikram Das,25.0,West,Bhopal,07/29/25,Fashion,Jeans,3,2831,10.0,5000,UPI,Delivered,3.0,Email
+887,ORD1887,C103,Karan Mehta,25.0,North,Ahmedabad ,22-03-2026,Home,Chair,3,6755,10.0,12000,UPI,Delivered,1.0,Instagram
+888,ORD1888,C128,Sneha Joshi,60.0,West,Jaipur,2025-04-12,Home,Mixer,3,4835,10.0,999,UPI,Returned,5.0,Email
+889,ORD1889,C018,Karan Mehta,25.0,South,Ahmedabad ,2025-06-30,Home,Mixer,3,2528,0.0,999,Wallet,Returned,2.0,Email
+890,ORD1890,C176,Sneha Joshi,25.0,North,Jaipur,"Nov 19,2025",Sports,Football,5,5577,10.0,2500,Card,Delivered,3.0,Unknown
+891,ORD1891,C054,Karan Mehta ,45.0,South,Bhopal,02-08-2025,Sports,Football,1,2183,10.0,30000,Card,Cancelled,3.0,Unknown
+892,ORD1892,C209,Neha Gupta,25.0,North,Lucknow,29-12-2025,Beauty,Face Wash,3,3754,15.0,12000,UPI,Returned,2.0,Unknown
+893,ORD1893,C018,Vikram Das,45.0,South,Ahmedabad ,"Nov 05,2025",Beauty,Face Wash,3,1099,0.0,2500,UPI,Returned,2.0,Facebook
+894,ORD1894,C201,Riya Shah,25.0,South,Pune,15-10-2025,Electronics,Smartphone,3,5546,0.0,30000,UPI,Cancelled,5.0,Instagram
+895,ORD1895,C109,Rahul Sharma,60.0,North,Ahmedabad ,05/08/25,Fashion,Jeans,1,7217,20.0,2500,UPI,Delivered,3.0,Email
+896,ORD1896,C143,Amit Singh,25.0,South, Mumbai,11/17/25,Electronics,Smartphone,10,2472,0.0,2500,Cash,Delivered,2.0,Unknown
+897,ORD1897,C032,Rahul Sharma,25.0,West,Lucknow,2025-06-15,Sports,Cricket Bat,3,4450,10.0,999,Card,Returned,5.0,Instagram
+899,ORD1899,C024,Karan Mehta,25.0,North,Bhopal,27-04-2026,Electronics,Laptop,2,6346,10.0,2500,UPI,Returned,4.0,Unknown
+900,ORD1900,C209,Neha Gupta ,31.0,North,Jaipur,2025-10-08,Electronics,Headphones,3,1573,10.0,999,UPI,Delivered,3.0,Unknown
+901,ORD1901,C195,Neha Gupta,31.0,West,Lucknow,22-01-2025,Electronics,Laptop,4,2078,0.0,2500,Cash,Returned,1.0,Unknown
+902,ORD1902,C151,Rahul Sharma,45.0,West,Delhi,21-01-2025,Fashion,Shoes,1,6158,5.0,2500,UPI,Cancelled,3.0,Unknown
+903,ORD1903,C069,Karan Mehta,25.0,North,Pune,"Apr 14,2026",Electronics,Smartphone,4,3430,0.0,30000,Wallet,Delivered,3.0,Facebook
+904,ORD1904,C115,Sneha Joshi,31.0,North,Delhi,2025-08-20,Beauty,Perfume,3,3836,20.0,5000,UPI,Delivered,2.0,Unknown
+905,ORD1905,C014,Neha Gupta,60.0,North,Delhi,07/04/25,Fashion,Jeans,4,4871,20.0,2500,UPI,Delivered,2.0,Google Ads
+906,ORD1906,C236,Vikram Das,25.0,South,Pune,20-07-2025,Fashion,Shoes,3,1044,0.0,0,Wallet,Delivered,1.0,Instagram
+908,ORD1908,C231,Priya Patel,31.0,South,Bhopal,2026-01-30,Electronics,Smartphone,3,4881,20.0,30000,UPI,Delivered,3.0,Instagram
+911,ORD1911,C208,Rahul Sharma,21.0,East,Bhopal,12/20/25,Electronics,Headphones,5,3538,15.0,30000,UPI,Delivered,3.0,Google Ads
+912,ORD1912,C096,Karan Mehta,25.0,West,Ahmedabad ,06-10-2025,Electronics,Headphones,3,7312,0.0,2500,Card,Returned,2.0,Unknown
+913,ORD1913,C173,Sneha Joshi,25.0,North,Jaipur,03/17/25,Home,Mixer,10,451,20.0,999,Card,Delivered,3.0,Email
+914,ORD1914,C139,Amit Singh,31.0,North,Bhopal,"Nov 03,2025",Sports,Football,1,2352,10.0,0,Cash,Delivered,5.0,Unknown
+915,ORD1915,C190,Neha Gupta,25.0,West, Mumbai,11-05-2025,Electronics,Headphones,2,5149,0.0,2500,Card,Cancelled,4.0,Unknown
+916,ORD1916,C040,Neha Gupta,21.0,West, Mumbai,04/26/25,Home,Chair,3,5406,5.0,5000,UPI,Delivered,3.0,Google Ads
+917,ORD1917,C007,Rahul Sharma,60.0,North,Pune,03-05-2026,Fashion,Shoes,5,2927,5.0,999,UPI,Delivered,3.0,Email
+918,ORD1918,C088,Sneha Joshi ,45.0,South,Bhopal,"Dec 24,2025",Electronics,Smartphone,3,880,0.0,12000,Wallet,Returned,3.0,Unknown
+919,ORD1919,C008,Riya Shah,25.0,East, Mumbai,"Jun 13,2025",Electronics,Headphones,10,3265,0.0,5000,Wallet,Cancelled,3.0,Email
+920,ORD1920,C140,Priya Patel,45.0,North,Bhopal,"Sep 01,2025",Electronics,Smartphone,1,3587,5.0,5000,Card,Delivered,5.0,Email
+921,ORD1921,C025,Rahul Sharma,31.0,North,Bhopal,04/21/25,Electronics,Smartphone,5,4654,0.0,0,Wallet,Delivered,4.0,Google Ads
+922,ORD1922,C045,Vikram Das,31.0,North,Jaipur,12/24/25,Home,Chair,5,2530,5.0,12000,Card,Returned,1.0,Facebook
+923,ORD1923,C199,Amit Singh,21.0,South,Ahmedabad ,01/03/25,Electronics,Laptop,10,4658,15.0,999,Card,Cancelled,4.0,Facebook
+925,ORD1925,C023,Riya Shah,25.0,West,Bhopal,2025-02-04,Electronics,Smartphone,3,4526,10.0,12000,UPI,Delivered,1.0,Instagram
+926,ORD1926,C143,Riya Shah,25.0,North,Bhopal,"Dec 04,2025",Electronics,Laptop,3,2315,0.0,0,Wallet,Delivered,2.0,Facebook
+927,ORD1927,C131,Rahul Sharma ,25.0,South,Delhi,2025-07-10,Electronics,Smartphone,3,1407,0.0,2500,UPI,Delivered,2.0,Email
+929,ORD1929,C241,Neha Gupta,25.0,North,Bhopal,"Mar 06,2026",Sports,Football,3,5500,10.0,0,Card,Returned,1.0,Facebook
+930,ORD1930,C123,Sneha Joshi,31.0,North,Jaipur,19-01-2026,Beauty,Perfume,10,4514,15.0,5000,UPI,Returned,5.0,Instagram
+931,ORD1931,C095,Riya Shah,60.0,West,Lucknow,2026-01-31,Home,Chair,3,2196,10.0,2500,Wallet,Cancelled,3.0,Google Ads
+932,ORD1932,C024,Vikram Das,25.0,West, Mumbai,"Aug 29,2025",Sports,Cricket Bat,3,5373,10.0,2500,Card,Delivered,3.0,Unknown
+933,ORD1933,C090,Riya Shah,25.0,West,Bhopal,17-10-2025,Groceries,Rice,3,2070,15.0,2500,Card,Cancelled,4.0,Facebook
+935,ORD1935,C184,Riya Shah,25.0,West,Lucknow,07/20/25,Beauty,Face Wash,10,615,15.0,999,Card,Cancelled,1.0,Google Ads
+936,ORD1936,C208,Riya Shah ,25.0,West,Jaipur,04-02-2025,Electronics,Smartphone,3,5472,0.0,12000,Wallet,Returned,2.0,Google Ads
+937,ORD1937,C100,Karan Mehta,31.0,North, Mumbai,09/01/25,Electronics,Smartphone,10,1584,5.0,2500,UPI,Delivered,1.0,Google Ads
+938,ORD1938,C237,Sneha Joshi,21.0,North,Delhi,2026-02-06,Electronics,Headphones,3,5948,10.0,0,Card,Cancelled,3.0,Google Ads
+939,ORD1939,C238,Karan Mehta,31.0,North,Lucknow,"Nov 13,2025",Fashion,Shoes,4,2026,15.0,30000,UPI,Delivered,4.0,Facebook
+940,ORD1940,C032,Priya Patel,25.0,North,Pune,02/19/26,Groceries,Rice,3,2216,20.0,5000,Wallet,Delivered,2.0,Facebook
+942,ORD1942,C112,Karan Mehta,21.0,West,Bhopal,03/28/26,Home,Chair,3,4917,15.0,30000,Cash,Cancelled,2.0,Google Ads
+943,ORD1943,C054,Neha Gupta,25.0,East,Jaipur,03/28/25,Electronics,Headphones,2,4109,10.0,999,Card,Delivered,4.0,Unknown
+944,ORD1944,C100,Karan Mehta,25.0,North,Bhopal,2026-01-01,Sports,Football,4,2597,0.0,5000,Cash,Returned,1.0,Email
+945,ORD1945,C123,Amit Singh ,45.0,West,Pune,"Apr 12,2026",Fashion,Shoes,4,1383,10.0,30000,UPI,Returned,3.0,Instagram
+946,ORD1946,C135,Riya Shah,31.0,South,Ahmedabad ,2025-05-09,Fashion,T-Shirt,3,4093,0.0,30000,Cash,Delivered,2.0,Facebook
+947,ORD1947,C159,Rahul Sharma,31.0,South,Bhopal,2025-04-29,Home,Mixer,3,5638,5.0,5000,UPI,Delivered,1.0,Facebook
+948,ORD1948,C200,Vikram Das,25.0,North,Ahmedabad ,2025-10-01,Electronics,Laptop,2,625,10.0,12000,UPI,Delivered,1.0,Google Ads
+949,ORD1949,Unknown,Amit Singh,25.0,North,Ahmedabad ,21-07-2025,Electronics,Smartphone,3,5370,0.0,999,Wallet,Delivered,5.0,Google Ads
+950,ORD1950,C042,Rahul Sharma,25.0,North,Delhi,01-01-2026,Sports,Football,10,4893,5.0,2500,Cash,Cancelled,4.0,Email
+951,ORD1951,C193,Riya Shah,25.0,North,Bhopal,02/07/26,Groceries,Cooking Oil,3,5345,10.0,999,UPI,Delivered,1.0,Unknown
+952,ORD1952,C077,Karan Mehta,25.0,West,Pune,07/15/25,Beauty,Perfume,2,4134,10.0,30000,UPI,Delivered,4.0,Facebook
+953,ORD1953,C231,Neha Gupta,60.0,West,Bhopal,2025-03-14,Sports,Football,5,2556,15.0,5000,Cash,Delivered,2.0,Email
+955,ORD1955,C050,Riya Shah,31.0,North, Mumbai,"Jun 30,2025",Beauty,Perfume,1,1081,5.0,999,Wallet,Delivered,1.0,Instagram
+956,ORD1956,C086,Vikram Das,25.0,South,Lucknow,08/18/25,Groceries,Rice,3,1898,0.0,0,Wallet,Cancelled,1.0,Email
+957,ORD1957,C239,Sneha Joshi,25.0,South,Ahmedabad ,11-05-2026,Sports,Cricket Bat,3,6563,5.0,999,UPI,Delivered,5.0,Email
+958,ORD1958,C245,Amit Singh,25.0,North,Bhopal,2025-06-05,Fashion,Shoes,4,1075,0.0,30000,UPI,Returned,5.0,Unknown
+960,ORD1960,C135,Amit Singh,25.0,South,Pune,"Nov 20,2025",Beauty,Perfume,10,5671,10.0,999,UPI,Returned,4.0,Google Ads
+961,ORD1961,C206,Riya Shah,31.0,West,Pune,"May 03,2026",Beauty,Perfume,10,2036,0.0,30000,UPI,Delivered,4.0,Facebook
+962,ORD1962,C108,Karan Mehta,25.0,North,Ahmedabad ,07/31/25,Electronics,Headphones,3,1497,10.0,12000,Cash,Delivered,3.0,Instagram
+963,ORD1963,C086,Karan Mehta ,60.0,North,Bhopal,2025-08-31,Home,Mixer,3,2192,10.0,5000,Cash,Cancelled,2.0,Email
+964,ORD1964,C154,Karan Mehta,25.0,North, Mumbai,22-06-2025,Home,Chair,5,662,10.0,0,UPI,Delivered,2.0,Unknown
+966,ORD1966,C211,Neha Gupta,25.0,West, Mumbai,2025-01-21,Fashion,Shoes,2,5181,5.0,2500,Wallet,Delivered,5.0,Unknown
+967,ORD1967,C041,Priya Patel,45.0,South,Delhi,"Aug 25,2025",Electronics,Headphones,5,5026,5.0,5000,Card,Delivered,3.0,Email
+968,ORD1968,C108,Neha Gupta,25.0,North,Pune,12/01/25,Sports,Cricket Bat,3,6392,20.0,5000,UPI,Delivered,1.0,Instagram
+970,ORD1970,C101,Neha Gupta,25.0,North,Delhi,06-07-2025,Groceries,Cooking Oil,4,3144,0.0,30000,Card,Returned,2.0,Email
+971,ORD1971,C191,Sneha Joshi,25.0,North,Delhi,"Feb 22,2026",Sports,Cricket Bat,3,1621,10.0,30000,UPI,Delivered,4.0,Instagram
+972,ORD1972,C246,Riya Shah ,31.0,East,Delhi,05/03/25,Sports,Cricket Bat,3,3076,10.0,30000,UPI,Delivered,3.0,Google Ads
+973,ORD1973,C055,Amit Singh,25.0,South,Bhopal,31-01-2026,Beauty,Perfume,1,6724,0.0,12000,Wallet,Cancelled,5.0,Facebook
+974,ORD1974,C012,Riya Shah,21.0,East, Mumbai,10/03/25,Home,Chair,10,648,20.0,5000,Cash,Returned,5.0,Unknown
+975,ORD1975,C210,Neha Gupta,60.0,East,Jaipur,2025-06-03,Fashion,Shoes,4,4704,20.0,0,Wallet,Delivered,1.0,Facebook
+976,ORD1976,C206,Riya Shah,25.0,East,Delhi,2025-01-25,Sports,Football,3,2805,10.0,12000,Card,Cancelled,3.0,Instagram
+977,ORD1977,C219,Neha Gupta,25.0,South,Ahmedabad ,2026-02-04,Sports,Football,3,2699,20.0,12000,UPI,Delivered,3.0,Email
+978,ORD1978,C239,Riya Shah,60.0,South,Bhopal,20-02-2025,Electronics,Smartphone,4,2569,0.0,999,Cash,Delivered,3.0,Facebook
+979,ORD1979,C224,Priya Patel,45.0,North,Jaipur,09-02-2025,Beauty,Face Wash,5,7221,5.0,999,UPI,Returned,3.0,Instagram
+980,ORD1980,C202,Priya Patel,25.0,South,Ahmedabad ,"Dec 09,2025",Groceries,Cooking Oil,3,1938,0.0,5000,UPI,Cancelled,3.0,Instagram
+981,ORD1981,C123,Karan Mehta ,25.0,East,Bhopal,24-03-2025,Electronics,Laptop,3,1384,10.0,0,Wallet,Returned,2.0,Facebook
+983,ORD1983,C167,Karan Mehta,21.0,South,Bhopal,"Jan 09,2025",Sports,Football,1,5138,10.0,0,UPI,Delivered,5.0,Unknown
+984,ORD1984,C031,Rahul Sharma,25.0,North,Jaipur,"Oct 11,2025",Groceries,Rice,3,3618,0.0,12000,Cash,Delivered,1.0,Instagram
+985,ORD1985,C088,Sneha Joshi,25.0,South, Mumbai,"Mar 20,2025",Electronics,Smartphone,3,2627,10.0,5000,Card,Delivered,4.0,Instagram
+986,ORD1986,C239,Priya Patel,25.0,North,Jaipur,22-03-2026,Electronics,Smartphone,3,3377,5.0,30000,Card,Delivered,1.0,Facebook
+987,ORD1987,C216,Priya Patel,25.0,West,Jaipur,"May 22,2025",Fashion,Jeans,2,3629,0.0,12000,Card,Delivered,4.0,Instagram
+988,ORD1988,C036,Priya Patel,21.0,North,Bhopal,2026-01-15,Fashion,Shoes,2,6171,20.0,0,Cash,Delivered,4.0,Unknown
+989,ORD1989,C044,Amit Singh,25.0,North,Bhopal,"Feb 11,2025",Electronics,Smartphone,3,5800,15.0,999,UPI,Delivered,3.0,Unknown
+990,ORD1990,C127,Neha Gupta ,25.0,North,Bhopal,23-10-2025,Fashion,Shoes,1,3904,20.0,999,Wallet,Delivered,3.0,Facebook
+991,ORD1991,C181,Sneha Joshi,25.0,North, Mumbai,2025-11-12,Home,Mixer,5,3803,15.0,5000,Wallet,Delivered,3.0,Google Ads
+993,ORD1993,C106,Priya Patel,45.0,West,Ahmedabad ,2026-03-01,Electronics,Headphones,1,748,5.0,999,UPI,Delivered,3.0,Email
+994,ORD1994,C091,Neha Gupta,45.0,West,Bhopal,04/16/25,Home,Mixer,10,6332,10.0,2500,Cash,Delivered,3.0,Instagram
+995,ORD1995,C135,Riya Shah,25.0,North,Jaipur,01/19/26,Home,Mixer,3,4443,0.0,999,Card,Delivered,2.0,Email
+996,ORD1996,C165,Neha Gupta,45.0,South,Bhopal,"Jun 28,2025",Electronics,Smartphone,3,3630,0.0,5000,Card,Delivered,4.0,Facebook
